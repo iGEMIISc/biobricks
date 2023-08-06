@@ -1,0 +1,2832 @@
+ID: BBa_C0090
+Original Description: smaI
+Description: smaI coding region for AHL synthase smaI from Serratia
+--------------
+ID: BBa_C0400
+Original Description: BglG
+Description: BglG is a protein that is known to bind to terminator loops in bgl
+--------------
+ID: BBa_C0420
+Original Description: BglF
+Description: BglF Sensor permease of Bgl operon Sequence and Features Assembly Compatibility:
+--------------
+ID: BBa_C0600
+Original Description: Tar
+Description: Chemotaxis aspartate receptor (%3Ci%3Easpart) %3C/i%3E Usage and Biology Sequence and Features Assembly Compatibility: 10COM%3C/i%3E
+--------------
+ID: BBa_C0620
+Original Description: Tsr
+Description: Tsr Chemotaxis serine receptor sequence and features assembly compatibility%3A compatibility%3A with RBS
+--------------
+ID: BBa_C2030
+Original Description: Fos
+Description: %7BPos%7D%7Bleucine%7D%7D%7Bzip%7D%7B%7D%7B%7D%7B%7D%7B%7D%7B%7D%
+--------------
+ID: BBa_C2031
+Original Description: JunB
+Description: JunB Encodes the JunB leucine zipper Sequence and Features Assembly Compatibility: 10COMPA,
+--------------
+ID: BBa_C2032
+Original Description: JunD
+Description: JunD coding for a JunD leucine zipper.
+--------------
+ID: BBa_C52934
+Original Description: vdh
+Description: Vdh one of five genes needed for conversion of chemical substrate to its commercially usable form. Origin is
+--------------
+ID: BBa_I10010
+Original Description: ferA
+Description: ferA is a cytochrome involved in the reduction of Fe(III) in Geobacter sulfurre
+--------------
+ID: BBa_I10101
+Original Description: csgD
+Description: CsgD gene is a member of the curli subunit family.
+--------------
+ID: BBa_I10652
+Original Description: fdd
+Description: %7BD%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D
+--------------
+ID: BBa_I10777
+Original Description: GldE
+Description: GldE GldE gene from Flavobacterium johnsoniae, conferring gli
+--------------
+ID: BBa_I11000
+Original Description: test
+Description: %5B%5D%5B%5D%5D%5D%5D%5D%5D%5D%5D%5D%5D%5D%5D%5D%5D%5D%5D%
+--------------
+ID: BBa_I11010
+Original Description: RBS
+Description: RBS%3Csub%3Ci%3E%3Ci%3Ereplicon%3C/i%3E%3Ci%3E%3C/i%3E RBS%3Ci%3E%3C/
+--------------
+ID: BBa_I12205
+Original Description: AraC
+Description: AraC coding region for the AraC protein
+--------------
+ID: BBa_I13700
+Original Description: CheY
+Description: BBa_C0020 Sequence and Features Assembly Compatibility: 10COMPATIBLE WITH RFC, Repressor%3A %3A pCon 0.04-%3EluxR+pCon 0.70-%3EluxR+p
+--------------
+ID: BBa_I13701
+Original Description: CheB
+Description: C0024 Sequence and Features Assembly Compatibility%3A RFC[10]12
+--------------
+ID: BBa_I13702
+Original Description: CheR
+Description: BBa_C0028 Sequence and Features Assembly Compatibility: 10COMPATIBLE WITH RFC
+--------------
+ID: BBa_I15006
+Original Description: Cph8
+Description: Cph8 Chimeric Cph1/EnvZ Light Receptor Usage and Biology
+--------------
+ID: BBa_I20533
+Original Description: foo
+Description: %7B%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D
+--------------
+ID: BBa_I712002
+Original Description: CCR5
+Description: CCR5 (C-C motif) receptor 5, a HIV-1 co-receptor
+--------------
+ID: BBa_I712024
+Original Description: CD4
+Description: CD4 sequence for CD4 (glycoprotein expressed on the surface of T helper cells, regulatory T cells)
+--------------
+ID: BBa_I714005
+Original Description: abc
+Description: Abc florescence secondary structure measured by spectrophotometer
+--------------
+ID: BBa_I7154
+Original Description: pLac
+Description: (see part BBa_R0010) - - - - - - - - -
+--------------
+ID: BBa_I716000
+Original Description: wbbL
+Description: wbbL%3A wbbL%3A wbbL%3A neuS, "necessary for completion
+--------------
+ID: BBa_I716001
+Original Description: neuS
+Description: wbbL, with wbbL, "necessary for completion of the o
+--------------
+ID: BBa_I716024
+Original Description: VHb
+Description: VHb Vitreoscilla sp.'s VHb bacterial hemoglobin-%3Ci%3E %3Ci%3E
+--------------
+ID: BBa_I716151
+Original Description: hemA
+Description: hemA Delta-aminolevulinate synthase%3C/%3E assembly 
+--------------
+ID: BBa_I716153
+Original Description: hemB
+Description: HemB (codenamed hemB) is an enzyme involved in the heme biosynthesis pathway.
+--------------
+ID: BBa_I716154
+Original Description: hemC
+Description: hemC is a protein involved in the heme biosynthesis pathway.
+--------------
+ID: BBa_I716155
+Original Description: hemD
+Description: %7B%7D%7B%7D%7B%7B%7D%7B%7D%7B%7D%7B%7B%7D%7B%7B%7D%7B%7D%
+--------------
+ID: BBa_I716209
+Original Description: ceaB
+Description: splice site is a coiled strand with a helicase and a helicase and a p
+--------------
+ID: BBa_I716252
+Original Description: sodC
+Description: Protein kinase inducible promoter, with alternative sigma factor %26%2396283%3A tetR %26%2396286%3A 
+--------------
+ID: BBa_I716255
+Original Description: edit
+Description: edit edit Sequence and Features Assembly Compatibility: 10COMPATIBLE WITH RFC[10]12COMPATIBLE WITH RFP
+--------------
+ID: BBa_I716257
+Original Description: edit
+Description: %7BPetA%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%
+--------------
+ID: BBa_I716270
+Original Description: edit
+Description: modified Lutz-Lease sequence,with alternative sigma factor %26%23963%3B24 
+--------------
+ID: BBa_I716301
+Original Description: otsA
+Description: %7BotsA%7BotsA%7D%7BotsA%7D%7BotsA%7D%7BotsA%7D%7BotsA%7D%
+--------------
+ID: BBa_I716331
+Original Description: ThpA
+Description: OtsA%3CB%3Ci%3EotsB%3Ci%3EotsB%3C/i%3E and OtsB%3Cb%3Ci%3E, and this will help
+--------------
+ID: BBa_I716333
+Original Description: ThpC
+Description: ..........
+--------------
+ID: BBa_I716334
+Original Description: ThpD
+Description: %5B%5D%5D%5B%5D%5D%5D%5D%5D%5D%5D%5D%5D%5D%5D%5D
+--------------
+ID: BBa_I720000
+Original Description: rpoN
+Description: rpoN is a gene, producing sigma54. It is in pSB1
+--------------
+ID: BBa_I722003
+Original Description: er
+Description: RBS%3A er %3A erSequence%3A %3A erSequence%3A erSequence%3A erSequence%3A erSequence%3
+--------------
+ID: BBa_I723020
+Original Description: Pu
+Description: PU promoter is a member of the XylR promoter family.
+--------------
+ID: BBa_I723024
+Original Description: PhzM
+Description: This coding region for the first of two Pseudomonas aeruginosa strains
+--------------
+ID: BBa_I723025
+Original Description: PhzS
+Description: Coding region for the second of two Pseudomonas aeruginos species
+--------------
+ID: BBa_I725001
+Original Description: test
+Description: Cell density controller%3A pCon 0.70-%3EluxR+pLux/Tet-%3ElacZalpha-ccdB(weak RBS)
+--------------
+ID: BBa_I725010
+Original Description: test
+Description: TetR repressible AHL-%3EpLacI-%3EccdB(weak RBS)%3E%3A pCon 0.70-%3EluxR+pLux/Tet-%3
+--------------
+ID: BBa_I726001
+Original Description: I
+Description: Back to Bangalore iGEM 2007 Team Parts I luxI Usage and Biology Sequence and Features Assembly
+--------------
+ID: BBa_I726002
+Original Description: R
+Description: %5B%5D %5B%5D %5B%5D %5B%5D %5D R luxR Usage and Biology Sequence and Features Assembly%5D
+--------------
+ID: BBa_I726003
+Original Description: IC
+Description: %7B%7D%7B%7D%7B%7D%7D%7B%7D%7B%7D%7B%7D%7D%7B%7D%7B%7D%7D%
+--------------
+ID: BBa_I726004
+Original Description: RY
+Description: TetR repressible AHL-Tet-repressible LacZ-PoPS-%3ElacZalpha-ccdB-Lux/Tet-%3ElacZalpha-ccdB-Lux
+--------------
+ID: BBa_I729000
+Original Description: FliC
+Description: FLIC is a flagella protein monomer. It is encoded by the "FLIC" gene.
+--------------
+ID: BBa_I732100
+Original Description: LacI
+Description: Lac repressor%3A is a DNA-binding protein which inhibits the expression of genes coding for lac
+--------------
+ID: BBa_I732101
+Original Description: LRLa
+Description: Lactose Repressor (Lactose repressor)%3A Lactose Repressor (Lactose Repressor)%3A Lactose Repressor (Lactose Repressor)%
+--------------
+ID: BBa_I732102
+Original Description: LRLb
+Description: %5B%5D%5B%5D the natural lac repressor%5D%5B%5D%5B%5D%5B%5D%5B%5D%5B%5D
+--------------
+ID: BBa_I732103
+Original Description: LRLc
+Description: Lac repressor %3Ci%3E %3Ci%3E lactase %3Ci%3E repressor
+--------------
+ID: BBa_I732104
+Original Description: LRLd
+Description: LacI _ LacI _ LacI _ LacI _ LacI _ LacI _ LacI _ LacI _ LacI _ LacI
+--------------
+ID: BBa_I732997
+Original Description: TEST
+Description: TEST N/A Sequence and Features Assembly Compatibility%3A TEST%3A RFC%3A (weak RBS)
+--------------
+ID: BBa_I741009
+Original Description: recA
+Description: RecA%3CBR%3E%3CBR%3E%3CBR%3E%3CBR%3CBR%3E%3CBR%3CBR%3CBR%3E%3CBR%3E%3C
+--------------
+ID: BBa_I741049
+Original Description:  
+Description: %7B%7D%7D%7B%7D%7B%7D%7B%7D%7B%7D%7B%7D%7B%7D%7B%7D%7B%7D%
+--------------
+ID: BBa_I741108
+Original Description: a
+Description: TetR repressible AHL-%3EPoPS Receiver%3A pCon 0.36-%3EluxR+pLux/Tet-%3EPoPS
+--------------
+ID: BBa_I742107
+Original Description: COMT
+Description: COMT coding sequence encodes caffeic acid-O-methyl transferase (methyl methyltransferase)
+--------------
+ID: BBa_I745017
+Original Description: p148
+Description: p148 Lentivirus helper plasmid with polymerase/integrase. Sequencing site
+--------------
+ID: BBa_I745018
+Original Description: pLV
+Description: pLV%3Csub%3Ci%3ElenB%3C/i%3E pLV%3Csub%3ElenB%3C/i%3E Lentiviral vector backbone%3C/i%
+--------------
+ID: BBa_I766204
+Original Description: Ste2
+Description: %7Bst%7D %7Bc%7D %7Ba%7D %7Ba%7D %7Bc%7D %7Bc%7D %7Bc%7D %
+--------------
+ID: BBa_I766205
+Original Description: XhoI
+Description: XhoI Restriction Site. Sequence and Features Assembly Compatibility: 10COMPAATIBLE
+--------------
+ID: BBa_I766206
+Original Description: XmaI
+Description: %7B%7D %7B%7D%7B%7D%7D%7B%7B%7D%7B%7D%7B%7D%7B%7D%7B%7D%7B
+--------------
+ID: BBa_I766210
+Original Description: GFP
+Description: GFP encodes for yeast enhanced monomeric green fluorescence protein.
+--------------
+ID: BBa_I769902
+Original Description: test
+Description: %7B%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%
+--------------
+ID: BBa_I769903
+Original Description: test
+Description: Test Test Sequence and Features Assembly Compatibility: 10
+--------------
+ID: BBa_J01086
+Original Description: Key3
+Description: %3BPkey%3E%3Csub%3E%3Csub%3E%3C/sub%3E%3C/sub%3E%3C/sub%3E%3C/sub%3E%3C/sub
+--------------
+ID: BBa_J01087
+Original Description: Key4
+Description: %7B%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D
+--------------
+ID: BBa_J01088
+Original Description: Key5
+Description: %7BP%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D
+--------------
+ID: BBa_J01089
+Original Description: Key6
+Description: Temporary riboswax%3A repressible promoter + RBS%3E repressible promoter + RBS%3E
+--------------
+ID: BBa_J01090
+Original Description: Key7
+Description: Repressible RBS%3A %3Ci%3EacR%3Ci%3ElacZalpha-lacZalpha-ccdB%3E(weak RBS)%3Ci%3Ci%3
+--------------
+ID: BBa_J01091
+Original Description: Key8
+Description: %7D%7B%21%7D%7B%21%7D%7B%21%7D%7B%21%7D%7B%21%7D%7B%21%7D%7B%21%7
+--------------
+ID: BBa_J05829
+Original Description: Test
+Description: Test Test Sequence and Features Assembly Compatibility 10INCOMPATIBLE WITH RFC[10]Il
+--------------
+ID: BBa_J07006
+Original Description: malE
+Description: MalE is a protein involved in the transport of maltose from Escherichia coli.
+--------------
+ID: BBa_J07021
+Original Description: FecR
+Description: FecR %3Ci%3E FecR %3Ci%3E FecR CDS Sequence and Features Assembly Compatibility%3Ci%3E FecR %3Ci%3E CDS Sequence and Features
+--------------
+ID: BBa_J07065
+Original Description: ToxR
+Description: ToxR is a protein that is a member of the Tox family of receptors.
+--------------
+ID: BBa_J125000
+Original Description: aaa
+Description: aaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+--------------
+ID: BBa_J125001
+Original Description: aaa
+Description: aaaaaaaaaaaaaaaaaaaaa
+--------------
+ID: BBa_J17004
+Original Description: a
+Description: Temporal riboswiss factor %3Ci%3E %3A %3Ci%3E %3Ci%3E RBS%3C/i%3E %3Ci%3E RBS%
+--------------
+ID: BBa_J176000
+Original Description: hPCD
+Description: hPCD Polycomb chromodomain (PCD) from the human CBX8 protein
+--------------
+ID: BBa_J176003
+Original Description: Ubc
+Description: Ubc Ubc constitutive promoter Usage and Biology Comparison of human promoters in U2OS
+--------------
+ID: BBa_J176004
+Original Description: CFP
+Description: Humanized cerulean fluorescent protein sequence and features (CFP)
+--------------
+ID: BBa_J176005
+Original Description: mCh
+Description: mCherry red fluorescent protein (RFP) monomeric red fluorescent protein (RFP) from the mushroom coral
+--------------
+ID: BBa_J176006
+Original Description: YFP
+Description: YFP Mammalian venus fluorescent protein sequence and features assembly Compatibility: 10 COMPATITIVE Mammalian venus fluorescent protein sequence and features assembly
+--------------
+ID: BBa_J176007
+Original Description: KRAB
+Description: KRAB Transc. repression domain Sequence and Features Assembly Compatibility: 10
+--------------
+ID: BBa_J176008
+Original Description: NLS
+Description: NLS SV40 nuclear localization sequence (NLS) is a protein that is a fusion of RBS with a GFP tag
+--------------
+ID: BBa_J176013
+Original Description: VP64
+Description: VP64 is a strong transcriptional activator, however it can only act when fused to a DNA strand
+--------------
+ID: BBa_J176016
+Original Description: STOP
+Description: %7BT%3E%3ETAA%3E%3ETGA%3E%3ETGA%3E%3ETTA%3E%3E%3ETAA%3E%3E%3E%3ETAA%3E%
+--------------
+ID: BBa_J176018
+Original Description: PEST
+Description: PEST Protein degradation tag Usage and Biology Proline - Glutamic acid - Serine - Th
+--------------
+ID: BBa_J176021
+Original Description: HS4
+Description: HS4 chicken beta-globin gene insulator sequence and features assembly %3A %3Ci%3EB%3C/i%3C/i%3C/i%3C/i%3C/i%3C/i%
+--------------
+ID: BBa_J176023
+Original Description: EED
+Description: EED Embryonic Ectoderm Development; PCR2 member; Polycomb silencing sequence
+--------------
+ID: BBa_J176027
+Original Description: CMV
+Description: CMV constitutive CMV promoter; PCR cloned from pcDNA3.1+USCells
+--------------
+ID: BBa_J176028
+Original Description: HPK
+Description: HPK Constitutive human phosphoglycerate kinase promoter%3A Usage and Biology Comparison of
+--------------
+ID: BBa_J176032
+Original Description: EF1a
+Description: EF1a EF-1 alpha promoter from pEF5/FRT/V5/TOO%3A pEF5/V5/TOO%3A
+--------------
+ID: BBa_J176033
+Original Description: DPRE
+Description: DPRE HoxD 11-12 PRE element from human ESC's (Caroline J. Woo)
+--------------
+ID: BBa_J176034
+Original Description: Gluc
+Description: Gluc excreted Gaussia luciferase (from phGluc, Addgen, Gluc repressible)
+--------------
+ID: BBa_J176035
+Original Description: p65
+Description: p65 Activation domain from RELA (NFkB p65); Liu et al.
+--------------
+ID: BBa_J176036
+Original Description: SP1A
+Description: Temporary SP1A activation domain A from SP1 (Emaamai et al. 1995
+--------------
+ID: BBa_J176037
+Original Description: Sp1B
+Description: SP1B activation domain B from SP1
+--------------
+ID: BBa_J18958
+Original Description: eYFP
+Description: %3A BsaI.rc site found at 644 bp, %3A %3A %3B %3A %3A %3B %3A %3B %3C %3
+--------------
+ID: BBa_J18960
+Original Description: eCFP
+Description: eCFP Enhanced Cyan Fluorescent Protein%3A %3E and Features Assembly Compatibility%3A 10COMPA
+--------------
+ID: BBa_J212099
+Original Description: test
+Description: Temporary AHL-%3Ci%3Eci%3EtetR-%3Ci%3Eci%3EtetR-%3Eci%3EtetR-%3Eci
+--------------
+ID: BBa_J212100
+Original Description: test
+Description: %7BPacI%7D%7B%7D%7B%7D%7D%7B%7D%7B%7D%7B%7D%7D%7B%7D%7D%7B%
+--------------
+ID: BBa_J212103
+Original Description: test
+Description: %5B%5D%5B%5D%5B%5D%5B%5D%5B%5D%5D%5D%5D%5B%5D%5B%5D%5B%5D%
+--------------
+ID: BBa_J22051
+Original Description: Pcya
+Description: Pcya is a protein that is adenylate cyclase promoter.
+--------------
+ID: BBa_J22052
+Original Description: Pcya
+Description: modified Lutz-Bujard LacO promoter,with alternative sigma factor %26%23963%3B26 
+--------------
+ID: BBa_J29000
+Original Description: CrtE
+Description: %7B%7D%7B%7D%7D%7B%7D%7B%7D%7B%7D%7B%7D%7B%7D%7D%7B%7D%7B%
+--------------
+ID: BBa_J29001
+Original Description: CrtB
+Description: CrtB is the second of 3 an enzyme that is use to produce a lycopene(t)
+--------------
+ID: BBa_J29002
+Original Description: CrtI
+Description: Sequence and Features Assembly Compatibility: 10COMPATIBLE WITH RFC[10] 12COMPAT
+--------------
+ID: BBa_J290045
+Original Description: test
+Description: Temporary Inducible Promoter + CAA repressible Promoter + CAA repressible Promoter + CAA terminator + RBS
+--------------
+ID: BBa_J29026
+Original Description: KaiA
+Description: RBS%3Csub%3E %3C/sub%3E RBS%3C/sub%3E RBS%3C/sub%3E RBS%3C/sub%3E RBS%3C/sub%3E R
+--------------
+ID: BBa_J29027
+Original Description: KaiB
+Description: KaiB sequence and features assembly COMPATIBLE WITH RFC[10] 12COM
+--------------
+ID: BBa_J29029
+Original Description: pbpA
+Description: PBP2 is a penicillin-binding protein that is encoded by the pbpA tag.
+--------------
+ID: BBa_J29030
+Original Description: CrtY
+Description: Xanthophyllomyces dendrorhous Y(yb)B/I %3Ci%3Ci%3E%3C/i%3E%3C/i%3E%3E%3C/
+--------------
+ID: BBa_J29032
+Original Description: LacI
+Description: LacI is a lactose operon repressor
+--------------
+ID: BBa_J29033
+Original Description: KaiC
+Description: KaiC a Sequence and Features Assembly Compatibility: 10COMPAITUDE WITH RFC[10]
+--------------
+ID: BBa_J29037
+Original Description: SasA
+Description: BsaI.rc site found at 373 bp of RBS
+--------------
+ID: BBa_J29038
+Original Description: CheZ
+Description: CheZ chemotactic response, CheY protein phophatase sequence and features assembly Comp
+--------------
+ID: BBa_J29039
+Original Description: MinE
+Description: Cell division topological specificity factor, reverses MinC inhibition of FtsZ ring formation
+--------------
+ID: BBa_J29040
+Original Description: MinC
+Description: MinC is a cell division inhibitor, inhibits FtsZ ring formation.
+--------------
+ID: BBa_J29041
+Original Description: MinD
+Description: MinD is a membrane ATPase that activates MinC.
+--------------
+ID: BBa_J29042
+Original Description: FtsZ
+Description: FtsZ is a tubulin-like protein that is involved in cell division.
+--------------
+ID: BBa_J29043
+Original Description: a
+Description: Reporter%3A a a Sequence and Features Assembly Compatibility: 10InCOMPATIBLE WITH RFC[10-%3E%3A RFC[10-%3E%3E]
+--------------
+ID: BBa_J29044
+Original Description: test
+Description: %7D%7B%7D%7B%7D%7B%7D%7B%7D%7D%7B%7D%7B%7D%7B%7D%7B%7D%7B%
+--------------
+ID: BBa_J29045
+Original Description: test
+Description: Tests are performed on a computer system that is running the RFC version of the RFC.
+--------------
+ID: BBa_J29048
+Original Description: RBS
+Description: RBS strong rbs Sequence and Features Assembly Compatibility with RFC
+--------------
+ID: BBa_J29052
+Original Description: idi
+Description: idi-idi-idi-idi-idi-idi-idi
+--------------
+ID: BBa_J32004
+Original Description: CcdA
+Description: CcdA Control Cell Death A Sequence and Features Assembly COMPATIBLE WITH R
+--------------
+ID: BBa_J32010
+Original Description: ccdB
+Description: BsaI site found at 216 : ccdB%3A ccdB%3A ccdB%3A ccdB%3A ccdB%3A ccdB%3A
+--------------
+ID: BBa_J32020
+Original Description: AmpR
+Description: modified Lutz-Bujard LacO promoter,with alternative sigma factor %26%2396
+--------------
+ID: BBa_J32021
+Original Description: CmR
+Description: CmR a Sequence and Features Assembly Compatibility%26%23703%3B10COMPATIBLE WITH RFC%26%23703%3B10COMPATIBLE WITH RFC%26%23703%3B10
+--------------
+ID: BBa_J32023
+Original Description: BLIP
+Description: BLIP Beta Lactamase Inhibitory Protein which makes AmpR containing cells suceptible to death
+--------------
+ID: BBa_J33202
+Original Description: lacZ
+Description: LacZ gene is a member of the lacZ family of genes.
+--------------
+ID: BBa_J37013
+Original Description: iGEM
+Description: iGEM Igem Sequence and Features Assembly Compatibility: 10COMPATIBLE WITH RFC
+--------------
+ID: BBa_J40002
+Original Description: hihi
+Description: Hihi jy Sequence and Features Assembly Compatibility%3A 10COMPATIBLE WITH RFC%3A RBS%3A
+--------------
+ID: BBa_J45987
+Original Description: tyrB
+Description: Temporary tyrB dd Sequence and Features Assembly Compatibility%3A tyrB dd
+--------------
+ID: BBa_J45991
+Original Description: fd
+Description: %5B%5D%5B%5D%5B%5D%5D%5B%5D%5D%5D%5D%5D%5B%5D%5D%5D%5D%5D%
+--------------
+ID: BBa_J47500
+Original Description: XylR
+Description: XylR atgTTTactA AACGTCACCG CATCACATTACTGT
+--------------
+ID: BBa_J51000
+Original Description: ComP
+Description: quorum-pheromone receptor from B. subtilis. It is a
+--------------
+ID: BBa_J51001
+Original Description: ComA
+Description: ComA is a response regulator for the ComQXPA quorum-sensing system of B. subtilis
+--------------
+ID: BBa_J52001
+Original Description: rluc
+Description: rluc renilla luciferase Sequence and Features Assembly Compatibility: 10COM
+--------------
+ID: BBa_J52002
+Original Description: Ota
+Description: Ota dominant negative TRIF%3A sequence and features assembly COMPATIBLE WITH R
+--------------
+ID: BBa_J52025
+Original Description: rLUC
+Description: rLUC rLUC - Renilla luciferase (light is e. coli - RBS)%3A pCon 0.04-%3EluxI-%3EluxR+pLux/Te
+--------------
+ID: BBa_J52990
+Original Description: alja
+Description: Aja aja aja aja aja aja aja aja aja
+--------------
+ID: BBa_J52996
+Original Description: jksd
+Description: JKsd %5Bksd%5D%5D%5D%5Jsd%5D%5D %5D%5D%5Jsd%5D%5D%5D%5D%5D%
+--------------
+ID: BBa_J54001
+Original Description: cytR
+Description: cytR CytR transcriptional dual regulator,regulator for deo operon, u
+--------------
+ID: BBa_J54002
+Original Description: galS
+Description: GalS is an isorepressor of galR.
+--------------
+ID: BBa_J54004
+Original Description: galR
+Description: GalR is a repressor of galETK operon.
+--------------
+ID: BBa_J54011
+Original Description: glpR
+Description: GlpR ATGAAACAACACAACGTCACAACGGTATTATCGAAG
+--------------
+ID: BBa_J54012
+Original Description: glpR
+Description: glpR glp repressor Sequence and Features Assembly Compatibility: 10COM
+--------------
+ID: BBa_J5515
+Original Description: dsf
+Description: Temporary dsf dsdsf %3B%3Csub%3Ci%3Edsf%3C/i%3E%3C/i%3E%3C/i%3E%3C/
+--------------
+ID: BBa_J5532
+Original Description: inv
+Description: Inverter%3A inv inv Sequence and Features Assembly Compatibility: 10COMPATIBLE WITH RFC[10]
+--------------
+ID: BBa_J5759
+Original Description: Test
+Description: Test Test Sequence and Features Assembly Compatibility: 10COMPATIBLE WITH RFC[10]12COMPATABLE WITH RFC[12COMPATIBLE
+--------------
+ID: BBa_J58000
+Original Description: Test
+Description: Temporal Inducible Promoter%3A RBS%3A pCon 0.04-%3EluxR+pLux/Tet-%3ElacZalpha-ccdB(weak RBS)
+--------------
+ID: BBa_J59001
+Original Description: tuba
+Description: RBS%3A symphony orchestral tuba none symphony orchestral tuba none
+--------------
+ID: BBa_J64006
+Original Description: RocE
+Description: RocE RocE, from B. Subtilis, BG10933 Sequence and Features Assembly
+--------------
+ID: BBa_J64007
+Original Description: TEVr
+Description: TEVr is a cleavage recognition sequence for the Tobacco Etch Virus protease
+--------------
+ID: BBa_J64805
+Original Description: RocD
+Description: RocD RocD from the RocDEF promoter, B. Subtilis Sequence and, Description
+--------------
+ID: BBa_J64806
+Original Description: RocE
+Description: Coding %7B RocE %7D RocE from B. Subtilis Sequence and Features Assembly Compatibility: 10IN.DOC%7D
+--------------
+ID: BBa_J64991
+Original Description: TetR
+Description: TetR%3Csub%3Eregulator%3C/sub%3E repressible promoter%3C/sub%3E
+--------------
+ID: BBa_J69998
+Original Description: Temp
+Description: Temporary r0062 b0034 %5B%5D%5B%5B%5D%5B%5D%5B%5D%5B%5D%5B%5D%5B%5D%5
+--------------
+ID: BBa_J69999
+Original Description: Temp
+Description: Temporary Temp Sequence and Features Assembly Compatibility: 10COMPATIBLE WITH RFC[10]
+--------------
+ID: BBa_J70578
+Original Description: pylT
+Description: pylT pylT: ggaaacctgatcatgtaggatcgtaggat
+--------------
+ID: BBa_J70598
+Original Description: VioA
+Description: %5B%5D%5B%5D%5B%5D%5B%5D%5D%5B%5D%5D%5B%5D%5D%5B%5D%5B%5D%
+--------------
+ID: BBa_J70599
+Original Description: VioA
+Description: %7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D
+--------------
+ID: BBa_J70600
+Original Description: VioB
+Description: Cell density controller%3A pCon 0.04-%3EluxR+pLux/Tet-%3EccdB(weak RBS)
+--------------
+ID: BBa_J70601
+Original Description: VioC
+Description: XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ
+--------------
+ID: BBa_J70602
+Original Description: VioD
+Description: Cell density regulator%3A pCon %3EluxR/pLux/Tet-%3ElacZalpha-ccdB(weak RBS)
+--------------
+ID: BBa_J70603
+Original Description: VioE
+Description: modified Lutz-Bujard LacO promoter, with alternative sigma factor %26%23963%3B40 followed by YFP
+--------------
+ID: BBa_J72139
+Original Description: Pcon
+Description: Pcon constitutive promoter Sequence and Features Assembly Compatibility%3A 10COMPATIBLE WITH RFC%3A 
+--------------
+ID: BBa_J92213
+Original Description: test
+Description: %3A%3Ci%3E%3C/i%3E%3C/i%3E%3C/i%3E%3C/i%3E%3C/i%3E%3C/i%3E
+--------------
+ID: BBa_J96013
+Original Description: HSTK
+Description: HSTK Herpes simplex thymidine kinase conferring toxicity to a
+--------------
+ID: BBa_J96017
+Original Description: loxP
+Description: loxP %3Csub%3EloxP%3Csub%3EloxP%3C/sub%3EloxP%3C/sub%3E %3Csub%3EloxP%3C/sub%3Elox
+--------------
+ID: BBa_J96023
+Original Description: MS2
+Description: Cell density controller%3A %3A pCon 0.70-%3EluxR+pCon 0.70-%3EluxR+pLux/Tet-%3EccdB(weak RBS)
+--------------
+ID: BBa_J96026
+Original Description: BoxB
+Description: BoxB Lambda N peptide binding site sequence Sequence and Features Assembly Compatibility%3A 10COMPA
+--------------
+ID: BBa_J96031
+Original Description: EGFP
+Description: Green fluorescent protein derived from jellyfish Aequeora victoria wild-type GFP %3Csub%3C/sub%3C wild-type GFP
+--------------
+ID: BBa_J96035
+Original Description: FLAG
+Description: FLAG affinity tag sequence and features assembly Compatibility: 10COMPATIBLE WITH RFC[10]
+--------------
+ID: BBa_J96036
+Original Description: HA
+Description: HA HA affinity tag sequence and Features assembly Compatibility: 10COMPATIBLE WITH RFC
+--------------
+ID: BBa_J96037
+Original Description: His
+Description: %3Ci%3EB His%3Ci%3EB affinity tag %3Ci%3E - %3Ci%3EB%3Ci%3EB%3C/i%3E - %3Ci%
+--------------
+ID: BBa_J96039
+Original Description: GST
+Description: Protein_Domain%3A GST GST affinity tag%3A %3Ci%3E RBS%3C/i%3E
+--------------
+ID: BBa_J96040
+Original Description: IRES
+Description: RBS%3A COMPATIBLE WITH RFC[1000] - irs-irs-irs-irs-irs
+--------------
+ID: BBa_J96041
+Original Description: P2A
+Description: P2A 2A self cleavage peptide sequence and features assembly compatibility%3A 10COMPA%3A
+--------------
+ID: BBa_J96042
+Original Description: T2A
+Description: T2A 2A self cleavage peptide sequence and features
+--------------
+ID: BBa_J96043
+Original Description: PS3
+Description: PS3 Short Dna sequence with ribosome recruitment properties (mini-IRES)
+--------------
+ID: BBa_J96044
+Original Description: PS4
+Description: PS4 Short Dna sequence with ribosome recruitment properties (mini-IRES) Sequence and Features
+--------------
+ID: BBa_J96045
+Original Description: CMV
+Description: Cell density controller%3A pCon 0.70-%3EluxR+pLux/Tet-%3ElacZalpha-ccdB(weak RBS)+pLux/Tet-%3ElacZal
+--------------
+ID: BBa_K076002
+Original Description: Ngn1
+Description: Ngn1 is a transcription factor that promotes the differentiation of embryonic stem cells into particular types of neuronal cells
+--------------
+ID: BBa_K076004
+Original Description: EYFP
+Description: %7B%7D%7B%7D%7D%7B%7D%7B%7D%7D%7B%7D%7B%7D%7B%7D%7B%7D%7B%
+--------------
+ID: BBa_K076009
+Original Description: Lbx1
+Description: %7BP%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%
+--------------
+ID: BBa_K078102
+Original Description: dxnB
+Description: %5Br%5D%5Br%5D%5Br%5D%5Bbr%5D%5Bbr%5D%5Br%5D%5Br%5D%5Bbr%5
+--------------
+ID: BBa_K079012
+Original Description: mbv 
+Description: Inverter%3A mbv%3Ambv%3Ambv%3Ambv%3Ambv%3A mbv%3Ambv%3Ambv%3Ambv
+--------------
+ID: BBa_K079013
+Original Description: fs
+Description: RBS%3A fs fs Sequence and Features Assembly Compatibility%3A 10COMPAITITY%3A RFC%3A
+--------------
+ID: BBa_K079022
+Original Description: ..
+Description: %7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D
+--------------
+ID: BBa_K079025
+Original Description: ..
+Description: RBS%3CBR%3Csub%3E%3C/sub%3E%3C/sub%3C/sub%3E%3C/sub%3E%3C/sub%3E%3C/sub%3E%
+--------------
+ID: BBa_K079027
+Original Description: ...
+Description: %7Ci%7D%7B%7D%7B%7C%7D%7B%7D%7B%7D%7B%7D%7B%7D%7B%7D%7C%7D
+--------------
+ID: BBa_K079028
+Original Description: ...
+Description: %7BP%7D%7D%7B%7D%7B%7D%7B%7D%7B%7D%7B%7D%7B%7D%7B%7D%7B%7D%
+--------------
+ID: BBa_K079033
+Original Description: ...
+Description: GFP repressible promoter + RBS (B0030) + GFP repressible promoter
+--------------
+ID: BBa_K079034
+Original Description: ..
+Description: %5B%5D %5D %5B%5D %5B%5D %5B%5D %5D %5B%5D %5B%5D %5B%5D %
+--------------
+ID: BBa_K079035
+Original Description: ..
+Description: %5B%5D%5D%5D%5D%5D%5D%5D%5D%5D%5D%5D%5D%5D%5D%5D%5D%5D%5D%
+--------------
+ID: BBa_K091109
+Original Description: LuxS
+Description: Cell density controller%3A pCon 0.70-%3EluxI-LVA+pCon 0.70-%3EluxR+pLux/Tet-%3ElacZalpha-ccdB(weak RBS)
+--------------
+ID: BBa_K091156
+Original Description: pLux
+Description: pLux%3A promoter for Las- promoter BBa_K%3A pLux%3A
+--------------
+ID: BBa_K092902
+Original Description: test
+Description: %7Btest%3C%7D%7Btest%7D%7B%7D%7B%7D%7B%7D%7B%7D%7B%7D%7B%7D%7B%7
+--------------
+ID: BBa_K094001
+Original Description: CheZ
+Description: %7B%7D%7B%7D%7B%7D%7D%7B%7D%7D%7B%7D%7D%7D%7B%7D%7D%7B%7D%
+--------------
+ID: BBa_K094113
+Original Description: lacZ
+Description: %7B%3Csub%3EB%3C/sub%3E%7B%3C/sub%3E%7D%7B%3C/sub%3E%7B%3C/sub%3E%7D%
+--------------
+ID: BBa_K103010
+Original Description: OmpA
+Description: OmpA sequence and features assembly COMPATIBLE WITH RFC[10]%3CBR%3D%3CBR%3E%3E
+--------------
+ID: BBa_K104000
+Original Description: tp53
+Description: Tumour protein p53 - Guardian of the Genome Sequence and Features Assembly Complementary
+--------------
+ID: BBa_K1051501
+Original Description: Cln3
+Description: %7BP%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D
+--------------
+ID: BBa_K106026
+Original Description: Sir3
+Description: %7BPs%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D
+--------------
+ID: BBa_K108000
+Original Description: MutS
+Description: MutS methyl-directed mismatch repair protein of E.coli
+--------------
+ID: BBa_K108001
+Original Description: SRRz
+Description: Enterobacteria phage lambda lysis genes sequence and features assembly Compatibility %3Csub%3E%3C/sub%3C/sub%3C/sub%3E
+--------------
+ID: BBa_K108002
+Original Description: FlgA
+Description: FLGA assembly protein for flagellar basal-body periplasmic P ring of E.coli sequence
+--------------
+ID: BBa_K108003
+Original Description: FlgB
+Description: FLgB flagellar component of cell-proximal portion of basal-body rod of E. coli
+--------------
+ID: BBa_K108004
+Original Description: FlgC
+Description: FlgC flagellar component of cell-proximal region of basal-body rod of E. coli
+--------------
+ID: BBa_K108005
+Original Description: FlgH
+Description: FlgH flagellar protein of basal-body outer-membrane L ring of E. coli
+--------------
+ID: BBa_K108006
+Original Description: FlgI
+Description: FlgI flagellar basal body protein of E. coli
+--------------
+ID: BBa_K108007
+Original Description: FliD
+Description: FLiD flagellar filament capping protein of E. coli Sequence and Features Assembly and Compatibility 10COM
+--------------
+ID: BBa_K108008
+Original Description: FliI
+Description: FLII flagellum-specific ATP synthase of E.coli Sequence and Features Assembly Complement
+--------------
+ID: BBa_K108009
+Original Description: FliK
+Description: FLiK Flagellar hook-length control protein of E. coli sequence and features assembly
+--------------
+ID: BBa_K108010
+Original Description: FliM
+Description: FliM flagellar motor switching and energizing component of E. coli
+--------------
+ID: BBa_K108011
+Original Description: FliN
+Description: %3A %3A RBS%3A %3A %3A RBS%3A %3A %3A %3A %3A %3A RBS%3A %3A %3A
+--------------
+ID: BBa_K108012
+Original Description: MotA
+Description: %5BPase%5D%5BPase%5D%5BPase%5D%5BPase%5D%5BPase%5D%5BPase%5D%5BPa
+--------------
+ID: BBa_K108013
+Original Description: YcgR
+Description: YcgR protein involved in flagellar function of E. coli
+--------------
+ID: BBa_K108014
+Original Description: PR
+Description: The PR promoter of Alcaligenes eutrophus PhaR gene is a protein that binds to the GFP promoter and
+--------------
+ID: BBa_K108015
+Original Description: PhaR
+Description: %7BP%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%
+--------------
+ID: BBa_K108016
+Original Description: PP
+Description: pP promoter of Alcaligenes eutrophus PhaP gene %3CB %3Ci%3E%3Ci%3E%3C/i%3E%3Ci%3E%3C/
+--------------
+ID: BBa_K108017
+Original Description: PhaP
+Description: %7BPath%7D%7B%7B%7D%7B%7D%7B%7D%7B%7D%7B%7D%7B%7D%7B%7B%7D%7
+--------------
+ID: BBa_K108019
+Original Description: PhbC
+Description: PhbC poly-beta-hydroxybutyrate polymerase of Wautersta eutrophia
+--------------
+ID: BBa_K108020
+Original Description: Dam
+Description: Dam DNA adenine methylase of E.coli is a member of the N(4)/S. cerevisiae family
+--------------
+ID: BBa_K108021
+Original Description: Fis
+Description: The fis protein is a transcriptional dual regulator of E. coli. It is a key part in the
+--------------
+ID: BBa_K108022
+Original Description: RuvA
+Description: %7BruvA%7D%7B%7D%7B%7D%7B%7D%7B%7D%7B%7C%7D%7B%7D%7B%7C%7D
+--------------
+ID: BBa_K108023
+Original Description: RuvB
+Description: %7Brbs%7D%7D%7B%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%
+--------------
+ID: BBa_K108024
+Original Description: RuvC
+Description: RuvC protein%3A a nuclease that resolves Holliday junction intermediates in %3Ci%3Csub%3E%3Ci%3E %3Ci%3E
+--------------
+ID: BBa_K108025
+Original Description: Pu
+Description: PU promoter of Pseudomonas putida XylUWCMABN%3A %3Ci%3E%3Ci%3EXylUWCMABN%3C/i%3E
+--------------
+ID: BBa_K108026
+Original Description: XylA
+Description: %7B%3Ci%3E%3C/i%3E RBS%3C/i%3E%3E%3C/i%3E RBS%3C/i%3E
+--------------
+ID: BBa_K108027
+Original Description: XylM
+Description: %3A XylM xylene monooxygenase of Pse, %3A xylM xylene monooxygenase
+--------------
+ID: BBa_K108028
+Original Description: XylB
+Description: xylB xylulokinase of Pseudomonas xylulokinase of Pseudomonas
+--------------
+ID: BBa_K108029
+Original Description: XylS
+Description: Cell density expressed%3A %3Ci%3LStop%3Ci%3E%3E/i%3E%3C/i%3E%3C/i%3E/i%3E%3C/i%3E
+--------------
+ID: BBa_K112900
+Original Description: Pbad
+Description: Pbad Arabinose induced promoter. This part is in BBb Format. It is flanked by a
+--------------
+ID: BBa_K112901
+Original Description: ccdB
+Description: ccdB All ccdb parts have been withdrawn from the Registry. Samples of parts
+--------------
+ID: BBa_K112907
+Original Description: Pcon
+Description: Pcon A constituitive promoter sequence with RBS %3CBR%3E and RBS %3CBR%3E
+--------------
+ID: BBa_K113006
+Original Description: RFP
+Description: RFP RFP Sequence and Features Assembly Compatibility: 10COMPATABLE WITH RFC[10]
+--------------
+ID: BBa_K113020
+Original Description: GFP
+Description: Reporter%3A BBa_I719015 %3A BBa_I719015 %3A BBa_I719015 %3A BBa_I719015 %3A BBa_I71
+--------------
+ID: BBa_K121000
+Original Description: test
+Description: Test test Sequence and Features Assembly Compatibility: 10COMPATIBLE WITH RFP[10] 12COMPATIBLE WITH RFP[12]
+--------------
+ID: BBa_K121005
+Original Description: test
+Description: RBS%3Csub%3Esub%3E%3C/sub%3E%3C/sub%3E%3C/sub%3E%3C/sub%3E%3C/sub%3E%3C/sub%
+--------------
+ID: BBa_K121006
+Original Description: test
+Description: %7B%7D %7B%7D%7B%7D%7B%7D%7B%7D%7D%7B%7D%7B%7D%7B%7D%7B%7D
+--------------
+ID: BBa_K121097
+Original Description: test
+Description: Test Sequence and Features Assembly Compatibility: 10COMPATIBLE WITH RFC[10]12COMPATIBLE WITH RFC[12COMPAT
+--------------
+ID: BBa_K121098
+Original Description: test
+Description: modified Lutz-Bujard LacO promoter, with alternative sigma factor %26%23963%3B32 
+--------------
+ID: BBa_K121099
+Original Description: test
+Description: Temporary repressible expression cassette for insertion of non-nucleotide RNAs into the promoter of adenosine RNA
+--------------
+ID: BBa_K121998
+Original Description: test
+Description: TetR reporter%3A RBS%3A pCon%3A RBS%3A RBS%3A RBS%3A pCon%3A RBS%3A RBS%3A RBS%3A RBS%3A
+--------------
+ID: BBa_K123003
+Original Description: ER
+Description: ER%3A homodimer of the estrogen receptor
+--------------
+ID: BBa_K125505
+Original Description: sE
+Description: sE sE master switch%3CBR%3C/BR%3E sE %3C/BR%3C/BR%3E sE %3CBR%3C/BR%3E sE %3
+--------------
+ID: BBa_K130000
+Original Description: srlD
+Description: srlD srlD ORF encoding for sorbitol dehydrogenase
+--------------
+ID: BBa_K130001
+Original Description: lipD
+Description: Lignin peroxidase D from white rot fungus (Phänerochaetaetaetaetaetus)
+--------------
+ID: BBa_K132018
+Original Description: araC
+Description: araC araC+B0010+B0012 Sequence and Features Assembly Compatibility:
+--------------
+ID: BBa_K133016
+Original Description: CF
+Description: %5Bci%5D%5Brbs%5D%5D %5Brbs%5D%5D%5Brbs%5D%5Brbs%5D%5Brbs%
+--------------
+ID: BBa_K133025
+Original Description: LPP
+Description: LPP is a lipopolypeptide that activates TLR1, TLR2, TLR6.
+--------------
+ID: BBa_K133052
+Original Description: UB33
+Description: Urease epitope UB33 is a peptide derived from the catalytic site of tetR
+--------------
+ID: BBa_K133057
+Original Description: HpaA
+Description: HpaA is a putative neuraminyllactose-binding hemagglutinase-%3Ci%3EL. cerevisiae-%3Ci%3E%3Ci%3E
+--------------
+ID: BBa_K133059
+Original Description: RGD
+Description: RGD is a protein that is required for binding to integrins.
+--------------
+ID: BBa_K133066
+Original Description: GFP
+Description: GFP Green fluorescence protein (mCerulean) WITH stop codon.
+--------------
+ID: BBa_K133071
+Original Description: UreB
+Description: UreB is a protein that is encoded by the "UreB" gene.
+--------------
+ID: BBa_K133140
+Original Description: GpA
+Description: GpA is a glycophorin transmembrane region.
+--------------
+ID: BBa_K134900
+Original Description: GFP
+Description: GFP is a protein that is encoded by the GFP gene.
+--------------
+ID: BBa_K137000
+Original Description: katE
+Description: katE (E. coli catalase) provides cell resistance to hydrogen peroxide by catalysing
+--------------
+ID: BBa_K137001
+Original Description: LacY
+Description: LacY Lactose transport receptor%3A Contribution made by Shanghai_HS_United BBa_K_K_K_K_K_K_K_K_K_K_K
+--------------
+ID: BBa_K137007
+Original Description: fimE
+Description: mdfffffffffffffffffffffff
+--------------
+ID: BBa_K137015
+Original Description: LacY
+Description: LacY Lactose permease sequence and features assembly compatible with tetR-%3ElacZalpha-ccdB(weak RBS)
+--------------
+ID: BBa_K137052
+Original Description: tetA
+Description: TetA Sequence codes only for tetracycline resistance cassette
+--------------
+ID: BBa_K137067
+Original Description: katG
+Description: %3Csub%3E%3Csub%3E%3C/sub%3C/sub%3E%3C/sub%3E%3C/sub%3E%3C/sub%3E%3C/sub%3
+--------------
+ID: BBa_K137111
+Original Description: lamB
+Description: %7BPainB%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%
+--------------
+ID: BBa_K137112
+Original Description: lamB
+Description: TetR repressible AHL-%3EPoPS Receiver%3A pCon 0.36-%3EluxR+pLux/Tet-%3EccdB-LVA+pCon 0.36-%3E
+--------------
+ID: BBa_K137113
+Original Description: rcsA
+Description: rcsA is a protein that is encoded by the "rcsA" gene.
+--------------
+ID: BBa_K141000
+Original Description: Ucp1
+Description: Ucp1 is a gene which encodes for UCP1 protein. The uncoupling protein UCP
+--------------
+ID: BBa_K141001
+Original Description: Ucp-
+Description: %3Ci%3E%3Ci%3E%3Ci%3E%3Ci%3E%3Ci%3E%3Ci%3E%3Ci%3E%3Ci%3E%3
+--------------
+ID: BBa_K142077
+Original Description: pMA
+Description: pMA Amp Resistance Plasmid%3A plasmid%3B assembly%3Ci%3E10INCOMPA%3E%3C/i%3E
+--------------
+ID: BBa_K147000
+Original Description: cheZ
+Description: %3Ci%3E%3Ci%3E %3Ci%3E %3Ci%3E%3E%3Ci%3E%3Ci%3E%3Ci%3E%3Ci
+--------------
+ID: BBa_K147002
+Original Description: xylE
+Description: Cell density controller%3A pCon 0.36-%3EluxR+pLux/Tet-%3ElacZalF+pLux/Tet-%3ElacZalpha-ccdB(weak RBS
+--------------
+ID: BBa_K147003
+Original Description: ohbA
+Description: ohbA gene is a subunit of the ortho-halobenzoate 1,2-d-dioxygenase
+--------------
+ID: BBa_K149000
+Original Description: test
+Description: Temporary repressible Adenocarbosacetyltransferase from Saccharomyces cerevisiae
+--------------
+ID: BBa_K150006
+Original Description: oriT
+Description: modified Lutz-Bujard LacO promoter,with alternative sigma factor %26%23943%3BlacZalpha-ccdB(weak RBS)
+--------------
+ID: BBa_K150108
+Original Description: test
+Description: Test%3Csub%3Cresponse%3C/sub%3E%3C/sub%3E%3C/sub%3E%3C/sub%3E%3C/sub%3E%3C/sub%
+--------------
+ID: BBa_K153006
+Original Description: BarA
+Description: BarA series of syringes designed to be used with the BarA system
+--------------
+ID: BBa_K157043
+Original Description: CFP
+Description: CFP CFP under the control of a CMV promoter.
+--------------
+ID: BBa_K174010
+Original Description: KinA
+Description: Spo0A Spo0A is the master regulator of sporulation in Bacillus subtilis
+--------------
+ID: BBa_K177045
+Original Description: temp
+Description: Temporary, Information temp sequence and Features assembly Compatibility%3A 10COMPATIBLE WITH RFC[10%3A12] 12COMPAT
+--------------
+ID: BBa_K185013
+Original Description: SmpB
+Description: SmpB protein is a member of the tmRNA rescue system.
+--------------
+ID: BBa_K185021
+Original Description: xxx
+Description: xxx None Sequence and Features Assembly Compatibility:10COMPTIBLE WITH RFC[10]
+--------------
+ID: BBa_K187028
+Original Description: trpA
+Description: %7BP%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%
+--------------
+ID: BBa_K187030
+Original Description: trpC
+Description: trpC is a bifunction enzyme that serves as both indole and sigma factor
+--------------
+ID: BBa_K187031
+Original Description: trpD
+Description: Cell density controller%3A %3A luxF %3A pCon 0.04-%3EluxR+pLux/Tet-%3AlacZalpha-ccdB(weak RBS)
+--------------
+ID: BBa_K187032
+Original Description: trpE
+Description: modified Lutz-Bujard LacI promoter,with alternative sigma factor %26%2396 
+--------------
+ID: BBa_K188004
+Original Description: fsfa
+Description: Fsfa %3Ci%3Eafasf%3C/i%3E %3Ci%3E afasf%3C/i%3E %3C/i%3E %3
+--------------
+ID: BBa_K188009
+Original Description: sa
+Description: sa asdf sequence and features assembly COMPATIBLE WITH RFC%3Csub%3C/sub%3E%3C/sub%3E%3C/sub%3E%3C/sub%3E
+--------------
+ID: BBa_K188027
+Original Description: luxI
+Description: modified Lutz-Bujard LacO promoter,with alternative sigma factor %26%23963%3B32 followed by YFP
+--------------
+ID: BBa_K188028
+Original Description: test
+Description: %5B%5D%5B%5D%5B%5D%5B%5D%5B%5D%5D%5B%5D%5D%5B%5D%5D%5B%5D%
+--------------
+ID: BBa_K188341
+Original Description: tetR
+Description: tetR x sequence and features assembly compatibility: 10COMPATIBLE WITH RFC
+--------------
+ID: BBa_K188661
+Original Description: ccdB
+Description: ccdB All ccdb parts have been withdrawn from the Registry. Samples of parts
+--------------
+ID: BBa_K188774
+Original Description: no.1
+Description: modified Lutz-Bujard LacO promoter, with alternative sigma factor %26%23963%3B32 followed by RBS
+--------------
+ID: BBa_K188777
+Original Description: aka
+Description: %7B%7D%7B%7D%7B%7D%7D%7B%7B%7D%7B%7D%7B%7D%7B%7D%7B%7D%7B%
+--------------
+ID: BBa_K188778
+Original Description: as
+Description: %7B%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D
+--------------
+ID: BBa_K188779
+Original Description: no.6
+Description: Br>br>br>br>br>br>br
+--------------
+ID: BBa_K188900
+Original Description: 1234
+Description: Cell density controller%3A pCon 0.04-%3EluxI-LVA+pCon 0.70-%3EluxR+pCon 0.70-%3EluxR+pLux/Tet-%3EccdB-
+--------------
+ID: BBa_K188901
+Original Description: test
+Description: BsaI.rc site found at 657 :
+--------------
+ID: BBa_K188902
+Original Description: test
+Description: BsaI.rc site found at 657.rc/msaI.rc/msaI.rc/msaI.rc/msaI.rc
+--------------
+ID: BBa_K188903
+Original Description: test
+Description: Cell density generator%3A adenosyltransferase (Adenosyltransferase)
+--------------
+ID: BBa_K188904
+Original Description: test
+Description: BsaI.rc site found at 657 bpi site
+--------------
+ID: BBa_K188905
+Original Description: test
+Description: %5D%5D%5D%5D%5D%5D%5D %5D%5D%5D%5D%5D%5D%5D%5D
+--------------
+ID: BBa_K190001
+Original Description: gvpA
+Description: %5B%5D%5B%5D%5B%5D%5B%5D%5B%5D%5B%5D%5B%5D%5B%5D%5B%5D%5D%
+--------------
+ID: BBa_K190004
+Original Description: gvpB
+Description: Cell density controller%3A pCon 0.04-%3EluxR-LVA+pCon 0.04-%3EluxR-LVA+pLux/Tet-%3EccdB(weak RBS)
+--------------
+ID: BBa_K190014
+Original Description: gvpU
+Description: GvpU is a gene for gas vesicle formation in Bacillus megaterium
+--------------
+ID: BBa_K190018
+Original Description: HmtA
+Description: Cell density controller%3A pCon 0.70-%3EluxI-LVA+pCon 0.70-%3EluxR+pLux/Tet-%3ElacZalpha-ccdB(weak RBS)
+--------------
+ID: BBa_K190019
+Original Description: fMT 
+Description: fMT is a metallothionein, binding Arsenite(III) and Arsenite(II)
+--------------
+ID: BBa_K190020
+Original Description: MymT
+Description: Methallothione Binding Cu (II) %3Ci%3E %3Ci%3E %3Ci%3E %3Ci%3E %3Ci%3E %3Ci%
+--------------
+ID: BBa_K190021
+Original Description: SmtA
+Description: SmtA is a metallothionin that binds Zn (II) %3Ci%3Ci%3E%3Ci%3E%3Ci%3E%3Ci%3Ci%3
+--------------
+ID: BBa_K190028
+Original Description: GlpF
+Description: Coding, Fig. 1: Before Optimization %20%20%3B Fig. 2: After Optimization %20%3B
+--------------
+ID: BBa_K191000
+Original Description: test
+Description: Temporal Test for Sequence and Features Assembly Compatibility%3A%3A RFC%3A%3Ci%3D%3E%3C/i%3E
+--------------
+ID: BBa_K194999
+Original Description: test
+Description: Test Test Sequence and Features Compatibility%3A RFP%3A RBS%3A RBS%3A RFP%3A RBS%3A RBS%3A RBS%3A RBS%3A RBS%3A RBS
+--------------
+ID: BBa_K197021
+Original Description: EILD
+Description: %7D %7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D
+--------------
+ID: BBa_K197022
+Original Description: KILR
+Description: KILR is a heterodimeric peptide that dimerizes to EILD. This peptide
+--------------
+ID: BBa_K197023
+Original Description: Ag4
+Description: Ag4 peptide is a small 12 amino acid peptide (NPSLFRYLPSD)
+--------------
+ID: BBa_K200003
+Original Description: Rfal
+Description: pmid%3Csub%3Efunction%3Csub%3Efunction%3Csub%3Efunction%3Csub%3Efunction%3Csub%3Efunction%3Csub%3Efunction%3Csub%3Efunction
+--------------
+ID: BBa_K200004
+Original Description: TaqI
+Description: %7B%7D%7B%7D%7B%7D%7B%7D%7B%7D%7D%7D%7B%7D%7D%7B%7D%7D%7B%
+--------------
+ID: BBa_K206108
+Original Description: 421
+Description: 421 %26%23963%3A %26%23966%3B %26%23963%3B 421 %26%23966%3B %26%23967%3B %26%23967%3B%
+--------------
+ID: BBa_K208000
+Original Description: GFP
+Description: GFP fusion protein that is a useful tool for fusion studies
+--------------
+ID: BBa_K211001
+Original Description: RI7
+Description: bba_K211001 bba_K211001 is a protein that in humans is encoded by the bba_K211001
+--------------
+ID: BBa_K223038
+Original Description: HlyA
+Description: Cell density controller%3A pCon 0.70-%3EluxR+pLux/Tet-%3ElacZalpha-ccdB(weak RBS)
+--------------
+ID: BBa_K237007
+Original Description: VR2
+Description: BBa_G00101(VR) - BBa_G00101(VR) - BBa_G00101(VR)
+--------------
+ID: BBa_K238008
+Original Description: VirA
+Description: VirA is a histidine kinase sensor originally found in Agrobacterium tet.
+--------------
+ID: BBa_K238009
+Original Description: VirG
+Description: modified Lutz-Bujard LacO promoter,with alternative sigma factor %26
+--------------
+ID: BBa_K238010
+Original Description: RpoA
+Description: RpoA gene is a member of the RNA polymerase family. It is required for the proper
+--------------
+ID: BBa_K238024
+Original Description: lock
+Description: BBa_J23078 iGEM lock iGEM lock iGEM lock iGEM lock
+--------------
+ID: BBa_K243030
+Original Description: SEG
+Description: Cell density controller%3A pCon 0.04-1%3EluxR+pLux/Tet-%3ElacZalpha-ccdB(weak RBS)
+--------------
+ID: BBa_K243031
+Original Description: pMA 
+Description: %5D%5D%5D%5D%5D%5D%5D%5D%5D%5D%5D%5D%5D%5D%5D%5D%5D%5D%5D%
+--------------
+ID: BBa_K243033
+Original Description: pEX
+Description: pEX is a plasmid vector for the expression of ampicillin-resistant E. coli
+--------------
+ID: BBa_K243037
+Original Description: pBAD
+Description: pBAD cloning vector carries the RFC25 restriction sites and an ampicilin resistance protein
+--------------
+ID: BBa_K245001
+Original Description: X2
+Description: TetR repressible promoter with alternative sigma factor %26%23963%3B32 followed by YFP reporter
+--------------
+ID: BBa_K245021
+Original Description: cYFP
+Description: cYFP%3A BBa_K245022 nYFP%3A BBa_K2, nYFP%3A BBa_K3, nYFP%3A BBa_K4, nYFP%
+--------------
+ID: BBa_K245022
+Original Description: nYFP
+Description: nYFP%3A BBa_K245021 %3A nYFP%3A BBa_K2 %3A nYFP%3A BBa_K2 %3A BBa_K2
+--------------
+ID: BBa_K245024
+Original Description: Z1
+Description: Z1 The sequence encodes a short zinc binding peptide.
+--------------
+ID: BBa_K245025
+Original Description: AUP
+Description: AUP (Short peptide for binding gold nanoparticles)
+--------------
+ID: BBa_K245026
+Original Description: TA
+Description: TA TA is a synthetic trimerization domain. It is a coding sequence for a synthetic
+--------------
+ID: BBa_K245027
+Original Description: TB
+Description: TB TB is a synthetic trimerization domain. It is a coding sequence for a synthetic trimer
+--------------
+ID: BBa_K245028
+Original Description: TC
+Description: TA TB TB TA TB TA TB TA TB TA TB TB TA TB TA TB TA TB TA TB
+--------------
+ID: BBa_K245029
+Original Description: DDD
+Description: DDD sequence encodes trimerization coiled-coil sequence, composed of three segments that are combined
+--------------
+ID: BBa_K245030
+Original Description: KKK
+Description: KKK sequence encodes trimerization coiled coil sequence, composed of three segments that are combined to form a helicase
+--------------
+ID: BBa_K245031
+Original Description: EEE
+Description: Glu residues at positions b, c and f of the coiled coil sequence
+--------------
+ID: BBa_K245038
+Original Description: NZ
+Description: BBa_K245039 BBa_K245039 is a coiled-coated promoter with a double terminator
+--------------
+ID: BBa_K245039
+Original Description: CZ
+Description: Antiparallel heterodimeric coiled-coil forming peptide
+--------------
+ID: BBa_K245042
+Original Description: VASP
+Description: VASP sequence codes the human vasp tetramerization domain that forms right-handed coiled coils
+--------------
+ID: BBa_K245046
+Original Description: ccdB
+Description: ccdB%3A ccdB%3A ccdB%3A ccdB%3A ccdB%3A ccdB%3A ccdB%3A cc
+--------------
+ID: BBa_K245114
+Original Description: LL37
+Description: The sequence encodes an antimicrobial peptide cathelicidin LL-37.
+--------------
+ID: BBa_K245116
+Original Description: GyrB
+Description: GyrB is a protein that is encoded by the "GyrB" gene.
+--------------
+ID: BBa_K245118
+Original Description: P1
+Description: P1 is a coiled-coil segment that forms a parallel heterodimer with P2 that can act as a GFP reporter
+--------------
+ID: BBa_K245119
+Original Description: P2
+Description: P2 sequence encodes coiled-coil segment that forms parallel heterodimer with P1 that can
+--------------
+ID: BBa_K245120
+Original Description: P3
+Description: P3 sequence encodes coiled-coil segment that forms parallel heterodimer with P4 that can
+--------------
+ID: BBa_K245121
+Original Description: P4
+Description: P4 sequence encodes coiled-coil segment that forms parallel heterodimer with P3 that can
+--------------
+ID: BBa_K245122
+Original Description: P5
+Description: %5B%5D%5B%5D%5B%5D%5B%5D%5D%5B%5D%5B%5D%5B%5D%5D%5B%5D%5B%
+--------------
+ID: BBa_K245123
+Original Description: P6
+Description: %7B%7D%7B%7D%7B%7D%7B%7D%7B%7D%7B%7D%7B%7D%7B%7D%7B%7D%7B%
+--------------
+ID: BBa_K245124
+Original Description: P7
+Description: P7 sequence is encoded by the following sequence: BBa_K245125.seq%3A BBa_K245125.rbs%3A
+--------------
+ID: BBa_K245125
+Original Description: P8
+Description: P8 sequence encodes coiled-coil segment that forms parallel heterodimer with P7 that can
+--------------
+ID: BBa_K245126
+Original Description: H1
+Description: H1 the sequence encodes homodimeric parallel coiled-coil segment.
+--------------
+ID: BBa_K245127
+Original Description: GCN
+Description: GCN-p1(I-L) is a homodimeric parallel coiled-coil signal peptide
+--------------
+ID: BBa_K245128
+Original Description: p53
+Description: p53 coding sequence This part is the coding sequence for the tetramerization domain of the RBS
+--------------
+ID: BBa_K245130
+Original Description: AEA
+Description: %5B%5D %5B%5D %5D %5B%5D %5D %5D %5D %5D %5D %5D
+--------------
+ID: BBa_K245131
+Original Description: ELST
+Description: ELST sequence encodes elastin-like segment.
+--------------
+ID: BBa_K245132
+Original Description: APH1
+Description: APH1 is a sequence of coiled-coil segment that forms antiparallel homodimeric tetA molecule
+--------------
+ID: BBa_K245133
+Original Description: APH
+Description: APH1 (BBa_K245132) is a protein that in humans is encoded by the GFP promoter
+--------------
+ID: BBa_K245134
+Original Description: BCR
+Description: BCR sequence encodes coiled-coil segment that forms antiparallel homodimer.
+--------------
+ID: BBa_K245135
+Original Description: APHE
+Description: APHE sequence encodes coiled-coil segment that forms antiparallel homodimer
+--------------
+ID: BBa_K245138
+Original Description: x
+Description: modified Lutz-Bujard LacO promoter,with alternative sigma factor %26%23963%3B32 
+--------------
+ID: BBa_K245139
+Original Description: RADA
+Description: RADA-mNGF composite part (BBa_K245106)
+--------------
+ID: BBa_K245140
+Original Description: mNGF
+Description: mNGF sequence assembly%3A COMPATIBLE WITH RFC(10] %3A %3Ci%3Ci%3E COMPATIBLE WITH RFC(10)%3C/i%3E
+--------------
+ID: BBa_K249016
+Original Description: mms6
+Description: %7BP%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%
+--------------
+ID: BBa_K252015
+Original Description: f
+Description: RBS%3A f ff Sequence and Features Assembly Compatibility: 10COMPATIBLE WITH RFC[10]
+--------------
+ID: BBa_K256004
+Original Description: NorR
+Description: Receptor of the anaerobic response to reactive nitrogen species.
+--------------
+ID: BBa_K266013
+Original Description: luxA
+Description: luxA luxA Sequence and Features Assembly Compatibility%3A 10InCOMPATIBLE WITH RFC%3A, Description%3A luxA luxA sequence and features assembly
+--------------
+ID: BBa_K269000
+Original Description: OmcB
+Description: OmcB is a gene for the outer membrane cytochrome utilized in electron transmission,
+--------------
+ID: BBa_K269001
+Original Description: OmcE
+Description: %5BP%5D%5D%5D%5D%5D%5D%5D%5D%5D%5D%5D%5D%5D%5D%5D%5D%5D%5D%
+--------------
+ID: BBa_K269002
+Original Description: OmcS
+Description: Protein_Domain%3A %3E %3E %3E %3E%3E %3E %3E %3E %3E %3E %3E %3E
+--------------
+ID: BBa_K269003
+Original Description: OmcT
+Description: modified Lutz-Bujard LacO promoter,with alternative sigma factor %26%23963%3B32 
+--------------
+ID: BBa_K270005
+Original Description: XylR
+Description: Bba_K270001%3A Pr XylR%3A XylR%3A XylR%3A XylR%3A XylR%3A XylR%3A
+--------------
+ID: BBa_K273020
+Original Description: E1A1
+Description: E1A1 Antisense RNA against the formation of pyruvate dehydrogenase
+--------------
+ID: BBa_K273021
+Original Description: E1A2
+Description: E1A2 Antisense RNA against the formation of pyruvate dehydrogenase
+--------------
+ID: BBa_K273022
+Original Description: E1A3
+Description: E1A3 Antisense RNA against the formation of pyruvate dehydrogenase E1A3 %7D%7D%7D%7D%7D%7D%7D%7E%7D%7D
+--------------
+ID: BBa_K273023
+Original Description: E1A4
+Description: E1A4 Antisense RNA against the formation of pyruvate dehydrogenase
+--------------
+ID: BBa_K273024
+Original Description: E1B1
+Description: E1B1 Antisense RNA against the formation of pyruvate dehydrogenase
+--------------
+ID: BBa_K273025
+Original Description: E1B2
+Description: E1B2 Antisense RNA against the formation of pyruvate dehydrogenase
+--------------
+ID: BBa_K273026
+Original Description: E1B3
+Description: E1B3 Antisense RNA against the formation of pyruvate dehydrogenase
+--------------
+ID: BBa_K273027
+Original Description: E1B4
+Description: E1B4 Antisense RNA against the formation of pyruvate dehydrogenase
+--------------
+ID: BBa_K273028
+Original Description: E21
+Description: E21 Antisense RNA against the formation of pyruvate dehydrogenase complex (
+--------------
+ID: BBa_K273029
+Original Description: E22
+Description: E22 Antisense RNA against the formation of pyruvate dehydrogenase complex (PDB) (
+--------------
+ID: BBa_K273030
+Original Description: E23
+Description: E23 Antisense RNA against the formation of pyruvate dehydrogenase complex (
+--------------
+ID: BBa_K273031
+Original Description: E24
+Description: E24 Antisense RNA against the formation of pyruvate dehydrogenase complex (PhD)
+--------------
+ID: BBa_K289002
+Original Description: GSH
+Description: TetR repressible AHL-%3EDeath Receiver%3A pCon 0.01-%3EluxR+pLux/Tet-%3EGFP
+--------------
+ID: BBa_K289003
+Original Description: GSH
+Description: %5B%5D%5B%5D%5B%5D%5B%5D%5D%5B%5D%5B%5D%5B%5D%5B%5D%5B%5D%
+--------------
+ID: BBa_K289005
+Original Description: PDC
+Description: PDC is a homotetromeric enzyme Pyruvate decarboxylase which can be used as a substitute
+--------------
+ID: BBa_K289007
+Original Description: Rbc
+Description: Rbc%3A function RuBisCO promoter%3A Acknowledged of sources and references Mutating the Syn
+--------------
+ID: BBa_K294060
+Original Description: test
+Description: Txt txt txt txt txt txt txt
+--------------
+ID: BBa_K294120
+Original Description: nasa
+Description: RBS%3A nasa nasa %3C nasa nasa %3C/nasa %3C/nasa %3C/nasa %3
+--------------
+ID: BBa_K294206
+Original Description: sss
+Description: sss ffffffffff%3A sequence and features assembly%3A 10COMPAT
+--------------
+ID: BBa_K294354
+Original Description: test
+Description: %7D%7D%7D %7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D
+--------------
+ID: BBa_K294898
+Original Description: GFP
+Description: GFP test sequence and features assembly%3A GFP%3C/%3E %3C/%3E %3C/%3E %3C/%3E %3C/%3E %3C/%3E
+--------------
+ID: BBa_K294902
+Original Description: test
+Description: %7BP%7DT%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D
+--------------
+ID: BBa_K302006
+Original Description: spaI
+Description: Aaaaaaaaaaaaaaaaaaaaaaaaa
+--------------
+ID: BBa_K302007
+Original Description: spaF
+Description: mnsaf.cnt.mnsaf.cnt.mnsaf.cnt.mnsaf.cnt.mnsaf.cnt.mnsaf
+--------------
+ID: BBa_K302008
+Original Description: spaE
+Description: -Protein sequence%3A -Protein mass%3A --Protein coding sequence
+--------------
+ID: BBa_K302009
+Original Description: spaG
+Description: aaaaaaaaaaaaaaaaaaaa
+--------------
+ID: BBa_K302010
+Original Description: sfp
+Description: the sfp gene is a non-ribosomal peptide synthetase (PRS) %3Ci%3E %3Ci%3E peptide synthetase%3C/i%
+--------------
+ID: BBa_K302011
+Original Description: swrA
+Description: swrA Bacillus subtilis 168 is unable to biosynthesise flagella.
+--------------
+ID: BBa_K302019
+Original Description: spaB
+Description: SpaB. Sequence and Features Assembly Compatibility: 10INCOMPATIBLE WITH RFC[10]
+--------------
+ID: BBa_K302023
+Original Description: spaS
+Description: The spaS gene codes for the subtilin precursor peptide.
+--------------
+ID: BBa_K302024
+Original Description: spaT
+Description: %7B%7D%7D%7B%7D%7B%7D%7D%7D%7D%7B%7D%7B%7D%7D%7B%7D%7D%7B%
+--------------
+ID: BBa_K302025
+Original Description: spaB
+Description: SpaB. Sequence and Features Assembly Compatibility: 10INCOMPATIBLE WITH RFC[10K]
+--------------
+ID: BBa_K302026
+Original Description: spaC
+Description: SPAC.samples.org/spaC/samples.html
+--------------
+ID: BBa_K302027
+Original Description: spaT
+Description: SpaT gene codes for a subtilin transporter. Sequence and Features Assembly Compatibility%3A 10COM
+--------------
+ID: BBa_K302028
+Original Description: spaB
+Description: spA is a protein that is encoded by the spA gene.
+--------------
+ID: BBa_K302029
+Original Description: sacB
+Description: SacB gene is encoded by the "sacB" gene.
+--------------
+ID: BBa_K302032
+Original Description: mazE
+Description: mazE Encodes the liable antitoxin to mazF in Bacillus subtilis
+--------------
+ID: BBa_K302033
+Original Description: mazF
+Description: iGEM Biological Parts %7B%7D iGEM %7B%7D Biological Parts %7B%7D iGEM Biological Parts %7D iGEM Biological Parts%7
+--------------
+ID: BBa_K305000
+Original Description: test
+Description: Temporary expression of pseudomonas spp.
+--------------
+ID: BBa_K307101
+Original Description: parS
+Description: ParS is a protein binding site. It is involed in the partition system.
+--------------
+ID: BBa_K307102
+Original Description: dif
+Description: %5D%5D%5D%5D%5D%5D%5D%5D%5D%5D%5D%5D%5D%5D%5D%5D%5D%5D%5D%
+--------------
+ID: BBa_K307105
+Original Description: rctB
+Description: rctB (Replication Initiator gene of Vibrio cholerae chromosome)%3A rctB (Replication Initiator gene of Vibrio cholerae chromosome
+--------------
+ID: BBa_K307106
+Original Description: parB
+Description: TetR repressor %3Ci%3Ci%3C/i%3E with alternative sigma factor %3C/i%3E
+--------------
+ID: BBa_K309099
+Original Description: test
+Description: modified Lutz-Bujard LacO promoter,with alternative sigma factor %26%23963%3B40 followed by YFP
+--------------
+ID: BBa_K310018
+Original Description: Hfq
+Description: Hfq Coming soon Sequence and Features Assembly Compatibility: 10COMPATIBLE WITH RFC[10
+--------------
+ID: BBa_K314011
+Original Description: CapD
+Description: BBa_K340011 is a protein native to Bacillus anthracis which cleaved lactose
+--------------
+ID: BBa_K314444
+Original Description: test
+Description: tttctaaaaaaaaaaaaaaaaaaaaaaaa
+--------------
+ID: BBa_K314560
+Original Description: test
+Description: BsaI.rc site found at 792 bp - %3Ci%3Ea %3Ci%3E %3Ci%3E %3Ci%3E %3Ci%3E 
+--------------
+ID: BBa_K317035
+Original Description: pduP
+Description: pduP is a protein that catalyzes the metabolization of propandiol
+--------------
+ID: BBa_K317998
+Original Description: RhlA
+Description: RhlA is a protein that in humans is encoded by the "RhlA" gene.
+--------------
+ID: BBa_K317999
+Original Description: RhlB
+Description: RhlB is a protein that in humans is encoded by the "RhlB" gene.
+--------------
+ID: BBa_K318516
+Original Description: RamA
+Description: Codon %3A repressor%3A pCon %3A repressor%3A pCon %3A repressor%3A pCon %3A repressor%3A pCon 
+--------------
+ID: BBa_K319033
+Original Description: ESV
+Description: ESV%3A This plasmid can be used to eliminate an upstream PstI restriction site and a
+--------------
+ID: BBa_K320015
+Original Description: P25
+Description: %5B%5B%5D%5B%5D%5D%5B%5D%5B%5D%5B%5D%5B%5D%5B%5D%5B%5D%5B%
+--------------
+ID: BBa_K320016
+Original Description: p28
+Description: P28 is a protein that is essential for the ookinete to be able to cross the
+--------------
+ID: BBa_K320999
+Original Description: P25
+Description: P25 t Sequence and Features Assembly Compatibility: 10%3A RBS%3A COMPATIBLE WITH RFC[10%3A pCon 0.70-%3EluxR/Tet-%3ElacZalpha-ci
+--------------
+ID: BBa_K323104
+Original Description: 105
+Description: Temporary, Information 105 b Sequence and Features Assembly Compatibility: 10COMPATIBLE WITH RFC[10]
+--------------
+ID: BBa_K323129
+Original Description: 130
+Description: Temporary A Sequence and Features Assembly%3A RBS%3A RBS%3A RBS%3A RBS%3A RBS%3A RBS
+--------------
+ID: BBa_K323137
+Original Description: 138
+Description: Cell density controller%3A pCon 0.70-%3EluxI-LVA+pCon 0.70-%3EluxR+pLux/Tet-%3EccdB(weak RBS)
+--------------
+ID: BBa_K323140
+Original Description: 141
+Description: %7BP%7D%7B%7D%7B%7D%7B%7D%7B%7D%7B%7D%7B%7D%7B%7D%7B%7D%7B%
+--------------
+ID: BBa_K323141
+Original Description: 142
+Description: %7D%7B%3Ci%7D%7B%3Ci%7D%7B%3Ci%7D%7B%3Ci%7D%7B%3Ci%7D%7B%3
+--------------
+ID: BBa_K323142
+Original Description: 143
+Description: 143 a %3Csub%3Ci%3E%3Ci%3EGFP%3C/i%3E%3E%3Ci%3E%3C/i%3E%3Ci%3E%3
+--------------
+ID: BBa_K323143
+Original Description: 144
+Description: Cell density controller%3A pCon 0.70-%3EluxI-LVA+pCon 0.70-%3EluxR+pLux/Tet-%3ElacZalpha-ccdB(weak RBS)
+--------------
+ID: BBa_K323144
+Original Description: 145
+Description: %7BP%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%
+--------------
+ID: BBa_K336054
+Original Description: kkk
+Description: %7BP%7D%7B%7D%7B%7D%7B%7D%7B%7C%7D%7D%7D%7B%7D%7B%7D%7B%7D%
+--------------
+ID: BBa_K341453
+Original Description: lacI
+Description: dna-binding domain of the lacI transcription repressor
+--------------
+ID: BBa_K341717
+Original Description: ToxR
+Description: %3Csub%3E%3Ci%3E%3C/i%3E%3C/i%3E%3C/i%3E%3C/i%3E%3C/i%3E%3C/
+--------------
+ID: BBa_K341718
+Original Description: VH
+Description: VH is the heavy chain of antibody. We want to link it behind the ToxR gene.
+--------------
+ID: BBa_K341719
+Original Description: VL
+Description: Light chain of antibody. We also connect it after the ToxR gene.
+--------------
+ID: BBa_K341720
+Original Description: pCTX
+Description: pCTX is a promoter recognized by ToxR.
+--------------
+ID: BBa_K361010
+Original Description:  
+Description: %7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D
+--------------
+ID: BBa_K364202
+Original Description: hBAX
+Description: hBAX is a protein that is a member of the Bcl-2 family.
+--------------
+ID: BBa_K364300
+Original Description: hVDR
+Description: hVDR%3Csub%3E%3C/sub%3E%3C/sub%3E%3C/sub%3E%3C/sub%3E%3E%3C/sub%3E
+--------------
+ID: BBa_K371037
+Original Description: pduA
+Description: pduA-RFP chimera pduA-RFP chimera pduA-RFP chimera
+--------------
+ID: BBa_K371037
+Original Description: pduA
+Description: pduA-RFP chimera pduA-RFP chimera pduA
+--------------
+ID: BBa_K371039
+Original Description: pduU
+Description: Cell density controller%3A promoter%3A RBS%3A pCon 0.70-%3EluxR+pLux/Tet-%3ElacZalpha-ccdB(weak RBS)
+--------------
+ID: BBa_K371040
+Original Description: pduB
+Description: pduB is a protein that is found in the pdu Bacteria Microcompartment
+--------------
+ID: BBa_K371056
+Original Description: ATG
+Description: ATG%3A sequence%3B ATG Sequence and Features Assembly Compatibility%3A WITH RFC%3A
+--------------
+ID: BBa_K371060
+Original Description: GGT
+Description: GGT GGT, codon for glycine. Sequence%3A %3Ci%3E assembly%3A 10COM%3Ci%3E
+--------------
+ID: BBa_K377700
+Original Description: blah
+Description: Cell density controller%3A pCon 0.35-%3EluxR+pLux/Tet-%3ElacZalpha-ccdB(weak RBS)
+--------------
+ID: BBa_K377703
+Original Description: Temp
+Description: Flu operon/ Ag43 NOTHING Sequence and Features Assembly Compatibility
+--------------
+ID: BBa_K377704
+Original Description: FimB
+Description: %7B%7B%7B%7D%7D%7B%7D%7D%7B%7D%7D%7B%7D%7B%7D%7D%7B%7D%7B%
+--------------
+ID: BBa_K387008
+Original Description: Oct4
+Description: Oct4 is a human transcriptional factor that can induce iPSCs (induce Pluripotent Receptors)
+--------------
+ID: BBa_K392029
+Original Description: test
+Description: Test%3A pCon%3A RBS%3A pCon%3A pCon%3A RBS%3A RBS%3A pCon%3A RBS%3A pCon%3A RBS%3A
+--------------
+ID: BBa_K398100
+Original Description: bbc1
+Description: bbc1 protein from Chlamydomonas spp. W-80 that enhances phagocillin expression
+--------------
+ID: BBa_K398200
+Original Description: AlnA
+Description: AlnA is an emulsifying protein present in the Alasan 
+--------------
+ID: BBa_K398201
+Original Description: OprG
+Description: %7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D
+--------------
+ID: BBa_K398300
+Original Description: AlkS
+Description: Cell density controller%3B promoter%3A pCon 0.70-%3EluxR+pLux/Tet-%3ElacZalpha-ccdB(weak RBS)
+--------------
+ID: BBa_K404245
+Original Description:  
+Description: %7Brbs%7D%7Brbs%7D%7Brbs%7D%7Brbs%7D%7Brbs%7D%7Brbs%7D%7Br
+--------------
+ID: BBa_K404249
+Original Description:  
+Description: %5D%5D%5D%5D%5D%5D%5D%5D%5D%5D%5D%5D%5D%5D%5D%5D%5D%5D%5D%
+--------------
+ID: BBa_K404307
+Original Description:  
+Description: %3Ci%3Ex%3E7B%3Ci%3E7B%3Ci%3EX%3Ci%3E7B%3Ci%3E7B%3Ci%3EX%3
+--------------
+ID: BBa_K404316
+Original Description: EGFP
+Description: eGPP eGPP BioBrick Nr. BBa_K404316 RFC standard RFC, %3A %3A %3A %3A %3A %3A %3A %3A 
+--------------
+ID: BBa_K419007
+Original Description: alkG
+Description: alkG alkG alkG Sequence and Features Assembly Compatibility: 10COMPATIBLE WITH RFC[%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7
+--------------
+ID: BBa_K419009
+Original Description: alkH
+Description: %7BalkH%7D%7BalkH%7D%7B%7D%7B%7B%7D%7B%7D%7B%7D%7B%7D%7B%7D%
+--------------
+ID: BBa_K426003
+Original Description: tn5
+Description: Tn5 is a protein that is encoded by the "tn5" gene.
+--------------
+ID: BBa_K426006
+Original Description: zf+
+Description: zf+ - dna binding domain - zinc finger nuclease
+--------------
+ID: BBa_K426007
+Original Description: zf-
+Description: Zf- This part encodes a DNA binding domain. DNA binding domains are proteins that bind to a
+--------------
+ID: BBa_K500005
+Original Description: Luc1
+Description: Luc1 N-terminal of luciferase contains 1-436aa of 550a
+--------------
+ID: BBa_K500006
+Original Description: Luc2
+Description: Luc2 C-terminal of Luciferase contains 440-550aa of 550
+--------------
+ID: BBa_K500007
+Original Description: MBP
+Description: %7BT%7D%7D%7B%7D%7B%7D%7B%7D%7B%7D%7B%7D%7B%7D%7B%7D%7B%7D%
+--------------
+ID: BBa_K500008
+Original Description: Nub
+Description: Nub N-terminal of ubiquitin contains 1-35aa of 76aa sequence and features
+--------------
+ID: BBa_K509005
+Original Description: GLuc
+Description: GLuc is a bioluminescent luciferase protein that emits green light, and is
+--------------
+ID: BBa_K510034
+Original Description: Swi6
+Description: cDNA clone Swi6 cDNA clone Swi
+--------------
+ID: BBa_K510035
+Original Description: Swi6
+Description: Swi6 is a critical protein for heterochromatin assembly in fission yeast Schizosaccharo
+--------------
+ID: BBa_K512000
+Original Description: cas3
+Description: Cas3 is a protein essential to the functionality of the Cascade (CRISPR-associated complex for anticancer signaling)
+--------------
+ID: BBa_K518005
+Original Description: cheZ
+Description: %7B%7D%7B%7D%7B%7D%7D%7D%7B%7D%7B%7D%7D%7B%7D%7D%7D%7B%7D%
+--------------
+ID: BBa_K519004
+Original Description: a
+Description: a a sequence and features assembly COMPATIBLE WITH RFC[10]
+--------------
+ID: BBa_K519005
+Original Description: a
+Description: %7B%7D%7B%7D%7B%7D%7B%7D%7B%7D%7B%7D%7B%7D%7B%7D%7D%7B%7D%
+--------------
+ID: BBa_K519010
+Original Description: SmtA
+Description: iGEM TEAM SmtA is a metallothionein that can bind to a variety of mRNAs
+--------------
+ID: BBa_K524204
+Original Description: pTE
+Description: Plasmid%3A Receptor%3A RBS%3A RBS%3A pCon%3A RBS%3A RBS%3A pCon%3A RBS%3A RBS%3A RBS%3A
+--------------
+ID: BBa_K530001
+Original Description: CRTE
+Description: Plasmid Map Sequencing This is the sequencing for colony 4.
+--------------
+ID: BBa_K530002
+Original Description: CRTI
+Description: Plasmid Map Sequencing This is the sequencing for colony 7.
+--------------
+ID: BBa_K530025
+Original Description: Vtc2
+Description: Coding information for RBS%3A RBS%3A RBS%3A RBS%3A RBS%3A RBS%3A RBS%3A RBS
+--------------
+ID: BBa_K530026
+Original Description: GME
+Description: %7B%7D%7B%7B%7D%7B%7D%7B%7B%7D%7B%7D%7B%7D%7B%7D%7B%7D%7B%
+--------------
+ID: BBa_K530027
+Original Description: Vtc4
+Description: Coding, Informations, Sequence and Features Assembly Compatibility: 10COMPATIBLE WITH RFC[10] 12COMPATIBLE WITH RFC[11]
+--------------
+ID: BBa_K539413
+Original Description: vioD
+Description: .........
+--------------
+ID: BBa_K539513
+Original Description: vioC
+Description: Cell density controller%3A pCon 0.15-%3EluxI-LVA+pCon 0.70-%3EluxR+pLux/Tet-%3EPoPS
+--------------
+ID: BBa_K545005
+Original Description: fha 
+Description: RBS%3Csub%3E%3C/sub%3C/sub%3C/sub%3C/sub%3C/sub%3C/sub%3C/sub%3C/sub%3C/sub%3C/sub
+--------------
+ID: BBa_K545006
+Original Description: mag 
+Description: rsmA binding site is located at the rsmA promoter.
+--------------
+ID: BBa_K549010
+Original Description: LuxE
+Description: lst = "" for i in range(100): lst.append(i)
+--------------
+ID: BBa_K554003
+Original Description: SoxR
+Description: SoxR is a transcription factor found in Escherichia coli and is activated during superoxide dehydrogenase
+--------------
+ID: BBa_K554004
+Original Description: IL10
+Description: IL-10 is an anti-inflammatory interleukin, produced mainly by monocytes.
+--------------
+ID: BBa_K554005
+Original Description: IL12
+Description: IL12 is a pro-inflammatory type-1 cytokine which bridges the innate resistance and adapts to a
+--------------
+ID: BBa_K554009
+Original Description: TolC
+Description: TolC is a specific outer membrane protein (OMP) and part of the hemolysin secretion pathway
+--------------
+ID: BBa_K564000
+Original Description: ChiX
+Description: %7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%
+--------------
+ID: BBa_K566027
+Original Description: CcaS
+Description: modified Lutz-Bujard LacO promoter,with alternative sigma factor and alternative sigma factor 
+--------------
+ID: BBa_K566028
+Original Description: CcaR
+Description: %7D%7D%7B%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D
+--------------
+ID: BBa_K567020
+Original Description: KanR
+Description: DNA-binding protein kinase kinase kinase kinase kinase kinase kinase
+--------------
+ID: BBa_K569011
+Original Description: FGFR
+Description: Cell density controller%3A pCon 0.70-%3EluxI-LVA+pCon 0.70-%3EluxR+pLux/Tet-%3EccdB(weak RBS)
+--------------
+ID: BBa_K569017
+Original Description: CheY
+Description: Functional Parameters: Austin_UTexas BBa_K569017 Parameters
+--------------
+ID: BBa_K575003
+Original Description: LasR
+Description: LasR LasR extracted from the genome Sequence and Features Assembly Compatibility: 10INCOMPATIBLE WITH GFP
+--------------
+ID: BBa_K584017
+Original Description: test
+Description: Test test Sequence and Features Assembly Compatibility: 10COMPATIBLE WITH RFC[10] 12COMPAATIBLE
+--------------
+ID: BBa_K587000
+Original Description: RecA
+Description: Cell density controller%3A pCon 0.04-%3EluxR+pCon 0.70-%3EluxR+pLux/Tet-%3ElacZalpha-ccdB(weak RBS)
+--------------
+ID: BBa_K588000
+Original Description: trpR
+Description: trpR (E. coli trypant repressor)%3CBR%3E trpR (E.coli tryptophan repressor)%3CBR%3E
+--------------
+ID: BBa_K588001
+Original Description: ptrp
+Description: ptrp Tryptophan promoter and operator Usage and Biology ptrp is a repressible promoter with a GFP
+--------------
+ID: BBa_K590080
+Original Description: mamK
+Description: %3Ci%3Csub%3E%3Csub%3E(%3Ci%3Csub%3E(%3Ci%3E(%3Ci%3E(sub%3E(sub%3E(sub
+--------------
+ID: BBa_K590081
+Original Description: mamI
+Description: MAMII is required for vesicle formation for later magnetosome growth in AMB-1.
+--------------
+ID: BBa_K592002
+Original Description: ccaR
+Description: CcaS-CcaR system is a two-component system that is a photoreversible system
+--------------
+ID: BBa_K607015
+Original Description: cI 
+Description: Intermediate%3A cI cI without degradation tag cI without degradation tag is a bacteriophage
+--------------
+ID: BBa_K628004
+Original Description: tba
+Description: TBA%3Etba%3Etba Sequence and Features Assembly Compatibility: 10COMPATIBLE WITH R
+--------------
+ID: BBa_K631039
+Original Description: nahD
+Description: nahD test sequence and features assembly compatible with RFC[10]
+--------------
+ID: BBa_K634000
+Original Description: exaD
+Description: ExaD is a sensor kinase which (in the presence of ethanol) phosphorylates tetR
+--------------
+ID: BBa_K634001
+Original Description: exaE
+Description: ExaE (gene) ExaE is a transcription factor that is activated by phosphorylation.
+--------------
+ID: BBa_K641000
+Original Description: Pctx
+Description: Pctx promoter activated by ToxR dimers
+--------------
+ID: BBa_K648035
+Original Description: RecA
+Description: %7Br>br%7Br%7D%7Br%7D%7Br%7D%7Br%7D%7Br%7D%7Br%7D%7Br%7D%7
+--------------
+ID: BBa_K648036
+Original Description: RecA
+Description: Mutation of RecA to reduce its recombination ability while maintaining its repressor cleavage ability
+--------------
+ID: BBa_K648037
+Original Description: RecA
+Description: %5Br>br>br>br>br
+--------------
+ID: BBa_K648038
+Original Description: RecA
+Description: %7B%7D%7B%7B%7D%7B%7D%7B%7D%7B%7D%7B%7D%7B%7D%7B%7D%7B%7D%
+--------------
+ID: BBa_K648124
+Original Description: RecA
+Description: %7B%7D%7B%7D%7B%7D%7B%7D%7D%7B%7D%7B%7D%7B%7D%7B%7D%7B%7D%
+--------------
+ID: BBa_K649010
+Original Description: test
+Description: BsaI.rc site found at 752 :%3A pCon %3A pCon %3A pCon %3A pCon
+--------------
+ID: BBa_K649901
+Original Description: test
+Description: xSequence and Features Assembly Compatibility:10COMPATIBLE WITH RFC[10]12IN %7D%7B%7D%7B%7D%7D%7B%7D%7B%7D%7
+--------------
+ID: BBa_K660004
+Original Description: iLOV
+Description: iLOV is a variant of LOV2 (http://parts.igem.org/part/ilov2/)
+--------------
+ID: BBa_K669000
+Original Description: chiS
+Description: chiS ChiS chitin sensor histidine kinase. ChiS belongs to histidine kinase family
+--------------
+ID: BBa_K669001
+Original Description: chiP
+Description: chitin oligos. chiP is a chitin oligos. chitin oligos
+--------------
+ID: BBa_K669002
+Original Description: CBP
+Description: %5B%5D%5B%5D%5B%5B%5D%5B%5D%5B%5D%5B%5D%5B%5D%5B%5D%5B%5D%
+--------------
+ID: BBa_K678070
+Original Description: p68
+Description: P68 is a plasmid that can be used to assay promoter activity in Aspergillus sp.
+--------------
+ID: BBa_K726004
+Original Description: RelB
+Description: RelB part of a toxin-antitoxin system.
+--------------
+ID: BBa_K726006
+Original Description: YefM
+Description: yefM antitoxin of the yefM-yoeB toxin
+--------------
+ID: BBa_K726013
+Original Description: YoeB
+Description: YoeB YoeB is a toxin-antitoxin (TA) module.
+--------------
+ID: BBa_K764002
+Original Description: WbnK
+Description: %7BP%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%
+--------------
+ID: BBa_K764003
+Original Description: WfcA
+Description: %7B%7D%7B%7B%7D%7B%7D%7B%7D%7B%7D%7D%7B%7D%7B%7D%7B%7D%7B%
+--------------
+ID: BBa_K764004
+Original Description: WclY
+Description: %7BP%7D%7D%7B%7D%7B%7D%7B%7D%7B%7D%7B%7D%7B%7D%7B%7D%7D%7B%
+--------------
+ID: BBa_K764007
+Original Description: WbiP
+Description: WbiP is encoded by the "wbiP" gene.
+--------------
+ID: BBa_K769100
+Original Description: luxA
+Description: xA xA Sequence and Features Assembly Compatibility: 10COMPABIT WITH RFC%3A 
+--------------
+ID: BBa_K769101
+Original Description: luxD
+Description: %7BluxD%7D%7BluxD%7B%7D%7B%7D%7B%7D%7B%7D%7B%7D%7B%7D%7D%7B%7D
+--------------
+ID: BBa_K769200
+Original Description: ribA
+Description: modified Lutz-Bujard LacO promoter,with alternative sigma factor %26%23963%3B38 
+--------------
+ID: BBa_K769201
+Original Description: ribB
+Description: ribB gene is not expressed in any species. ribB gene is not expressed in any eukaryotic cells
+--------------
+ID: BBa_K769203
+Original Description: ribC
+Description: RibC gene assembly is not available for this gene. Please check the assembly instructions for this gene.
+--------------
+ID: BBa_K769205
+Original Description: ribF
+Description: RibF%3Csub%3E%3Ci%3E%3C/i%3E%3C/i%3E is a gene from BL21(DE3)%3C/i%3E%3C/i%3
+--------------
+ID: BBa_K771301
+Original Description: TesA
+Description: TesA from E. coli. Fatty acid Biosynthesis Pathway
+--------------
+ID: BBa_K771302
+Original Description: FabG
+Description: FabG is a protein that is involved in the biosynthesis of fatty acids in E. coli
+--------------
+ID: BBa_K771303
+Original Description: FabI
+Description: FabI is a protein that is encoded by the "BBa_K773002" gene.
+--------------
+ID: BBa_K771304
+Original Description: FabZ
+Description: FabZ is a protein that is involved in the biosynthesis of fatty acids in E.coli.
+--------------
+ID: BBa_K776004
+Original Description: PrrC
+Description: modified Lutz-Bujard LacO promoter,with alternative sigma factor %26%23963%3B32 
+--------------
+ID: BBa_K776005
+Original Description: PpsR
+Description: PpsR is a protein that is involved in the repression of pigment biosynthesis
+--------------
+ID: BBa_K777109
+Original Description: fliC
+Description: pSB1C3 plasmid with pSB1C3 plasmid and pSB1C3 plasmid
+--------------
+ID: BBa_K777113
+Original Description: motA
+Description: K777113 is a member of the pSB1C3 plasmid.
+--------------
+ID: BBa_K777117
+Original Description: motB
+Description: BBa_K3174007 Functional Parameters: Austin_Texas BBa_K3174007
+--------------
+ID: BBa_K777121
+Original Description: yhjH
+Description: %3EByhJ%3A plasmid %3A pSB1C3+%3EyhJ%3A %3EyhJ%3A plasmid %3A pSB1C
+--------------
+ID: BBa_K787001
+Original Description: Ter 
+Description: Ter NADH-dependent crotonyl-CoA (Ter from Treponema denti) with repressible tetR
+--------------
+ID: BBa_K798018
+Original Description: TRP1
+Description: TRP1 is a protein that catalyzes the third step in tryptophan biosynthesis.
+--------------
+ID: BBa_K805013
+Original Description: CcdB
+Description: CcdB Due to patent issues, samples of parts containing the ccdB gene cannot be requested
+--------------
+ID: BBa_K805014
+Original Description: LuxI
+Description: X-Ray test Sequence and Features Assembly%3A Compatibility%3A RFC%3A %3Ci%3EZ%3C/i%3E%3C/i%3C/i%3E
+--------------
+ID: BBa_K805016
+Original Description: LuxI
+Description: BBa_B0034,BBa_C0061,BBa_B0015 Sequence and BBa_B0015
+--------------
+ID: BBa_K817001
+Original Description: FadR
+Description: %5BcI%5D %5BcI%5D %5BcI%5D %5BcI%5D %5BcI%5D %5BcI%5D%5B%5
+--------------
+ID: BBa_K817004
+Original Description: SP1
+Description: Modified pCI-1 (Design1) A signal peptide helps to deliver other peptide out of the
+--------------
+ID: BBa_K817005
+Original Description: SP2
+Description: Modified pCI-1 (Design1)%3A a signal peptide helps to deliver other peptide out of the
+--------------
+ID: BBa_K817006
+Original Description: SP3
+Description: SP3 A signal peptide helps to deliver other peptide out of the bacteria.
+--------------
+ID: BBa_K821000
+Original Description: Test
+Description: %7B%7D%7B%7D%7B%7D%7B%7D%7B%7D%7B%7D%7D%7B%7D%7B%7D%7B%7D%
+--------------
+ID: BBa_K821999
+Original Description: Test
+Description: Test Test Sequence and Features Assembly Compatibility%3A 10COMPATIBLE WITH RFC[10] 12COMPATIBLE with RBS
+--------------
+ID: BBa_K826008
+Original Description: fdr
+Description: FAD-dependent oxidoreductase family protein,acting on iron-containing sites
+--------------
+ID: BBa_K826009
+Original Description: ruba
+Description: rfc-rfc-rfc-rfc-rfc-rfc-rfc
+--------------
+ID: BBa_K826010
+Original Description: aldH
+Description: Coding, Informations Sequence and Features Assembly Compatibility: 10COMPATIBLE WITH RFC[10] 12INCOMPAATABLE WITH RBS
+--------------
+ID: BBa_K835001
+Original Description: EnvZ
+Description: KAIT_JAPAN_Project_emvz-02%3A %3A emvz-02%3A %3A emvz-02%3A emvz-02%3A 
+--------------
+ID: BBa_K838004
+Original Description: mCMV
+Description: mCMV is a minimal promoter for mammalian cells. This part is included in the
+--------------
+ID: BBa_K842000
+Original Description: flhB
+Description: %7B%7D%7B%7D%7B%7D%7B%7D%7B%7D%7B%7D%7B%7D%7B%7D%7B%7D%7D%
+--------------
+ID: BBa_K842001
+Original Description: flhD
+Description: flhD is to be used in conjunction with flhC in order to
+--------------
+ID: BBa_K842002
+Original Description: flgJ
+Description: flgJ is a flagellum specific muramidase gene that is used for the synthesis of ribozyme
+--------------
+ID: BBa_K842003
+Original Description: fliA
+Description: Flagella operon with alternative sigma factor %3A pCon %3A %3A %3A pCon %3A %3A pCon %3A pCon
+--------------
+ID: BBa_K842004
+Original Description: fliC
+Description: fliC is a protein that is encoded by the "fliC" gene
+--------------
+ID: BBa_K842005
+Original Description: fliH
+Description: fliH is a protein that is required for flagella assembly
+--------------
+ID: BBa_K842006
+Original Description: cheA
+Description: CheA is a regulatory protein that becomes activated when the methyl-accepting chemotaxis protein
+--------------
+ID: BBa_K842007
+Original Description: cheB
+Description: CheB is a protein that is a member of the chemotaxis pathway.
+--------------
+ID: BBa_K842008
+Original Description: cheW
+Description: CheW is involved in the transmission of sensory signals from the chemoreceptors to the flagellar motor
+--------------
+ID: BBa_K842009
+Original Description: cheY
+Description: pSB1C3%3A pSB1C3%3A pSB1C3%3A pSB1C3%3A pSB1C3%3A pSB1C3%3
+--------------
+ID: BBa_K842010
+Original Description: cheZ
+Description: pSB1C3 (psb1c3-based vector that contains a psb1c3 promoter)
+--------------
+ID: BBa_K842011
+Original Description: motA
+Description: %3A %3A %3A %3A %3A %3A %3A %3A %3A %3A %3A %3A %3A %3A %3
+--------------
+ID: BBa_K842012
+Original Description: motB
+Description: Structural protein for the stationary element of the flagella motor.
+--------------
+ID: BBa_K851003
+Original Description: XylR
+Description: %3Csub%3Csub%3EXylR%3C/sub%3E is a regulatory protein of the Xylose operon in Bacillus subtilis
+--------------
+ID: BBa_K858000
+Original Description: SdiA
+Description: Cell density controller%3A RBS%3A pCon 0.70-%3EluxI-LVA+pCon 0.70-%3EluxR+pLux/Tet-%3EccdB(weak RBS)
+--------------
+ID: BBa_K858004
+Original Description: NucB
+Description: NucB protein taken from Bacillus subtilis strain 168.
+--------------
+ID: BBa_K864204
+Original Description: OmpF
+Description: OmpF is a protein that is a member of the osmoporin family
+--------------
+ID: BBa_K864680
+Original Description: tetM
+Description: TetM is a tetracycline resistance gene, encoding a ribosomal tetR 
+--------------
+ID: BBa_K875003
+Original Description: CymR
+Description: %7BP%7D%7B%7B%7D%7B%7D%7B%7B%7D%7B%7D%7B%7D%7B%7B%7D%7B%7D%
+--------------
+ID: BBa_K879011
+Original Description: RFP
+Description: Tgatga - tgatga - tgatga - tgatga
+--------------
+ID: BBa_K879017
+Original Description: LacI
+Description: LacI%3Csub%3EB%3C/sub%3E LacI%3C/sub%3E LacI%3C/sub%3E LacI%3C/sub%3E LacI%3C/sub%3E LacI
+--------------
+ID: BBa_K879018
+Original Description: TetR
+Description: TetR TetR Sequence and Features Assembly Compatibility: 10COMPACTIVE WITH RFC%3A TetA%3Csub%3E%3C/sub%3E
+--------------
+ID: BBa_K879927
+Original Description:  
+Description: plasmid backbone plasmid backbone plasmid backbone plasmid backbone
+--------------
+ID: BBa_K879928
+Original Description:  
+Description: plasmid backbone plasmid backbone plasmid backbone plasmid backbone plasmid backbone
+--------------
+ID: BBa_K892008
+Original Description: osmY
+Description: osmY coding sequence osmY codes for the Osmotically induced protein
+--------------
+ID: BBa_K892009
+Original Description: fucO
+Description: FucO-%3A SacI-%3ElacZalpha-cI%3ElacZalpha-cI-%3ElacZalpha-cI-
+--------------
+ID: BBa_K892010
+Original Description: aldA
+Description: Gene aldA encoded by the "aldA" gene %3Csub%3E%3Ci%3E. %3Ci%3E %3C/i%3E
+--------------
+ID: BBa_K892016
+Original Description: Cph8
+Description: Cell density controller%3A pCon 0.70-%3EluxR+pLux/Tet-%3ElacZalpha-ccdB(weak RBS)
+--------------
+ID: BBa_K892101
+Original Description: fdsa
+Description: fdsa %3Ci%3Ci%3E %3Ci%3E fdsa %3Ci%3E %3Ci%3E %3Ci%3E %3Ci
+--------------
+ID: BBa_K902010
+Original Description: PhoP
+Description: %7B%7D%7B%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%
+--------------
+ID: BBa_K902011
+Original Description: PhoQ
+Description: PhoQ is part of the PhoPQ two component regulatory system. It acts as a transmembrane regulator
+--------------
+ID: BBa_K902068
+Original Description: RhaS
+Description: RhaS is a transcription factor which is part of the rhaSR operon.
+--------------
+ID: BBa_K902069
+Original Description: RhaR
+Description: Cell density controller%3A pCon 0.04-%3EluxR+pCon 0.35-%3EluxR+pLux/Tet-%3EccdB(weak RBS)
+--------------
+ID: BBa_K918012
+Original Description: ADH2
+Description: ADH2 s Sequence and Features Assembly Compatibility: 10COMPATIBLE WITH RFC[10 non-sequence %5D%5BR%5D%5BD%5D%5D%5B%5D%5
+--------------
+ID: BBa_K934027
+Original Description: test
+Description: Test Z Sequence and Features Assembly%3A RFC%3A RBS%3A RBS%3A RBS%3A RBS%3A RBS%3A
+--------------
+ID: BBa_K950005
+Original Description: lacZ
+Description: Rfc1000COMPATIBLE WITH RFC[1000]
+--------------
+ID: BBa_M1011
+Original Description: phaP
+Description: %7BP%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%
+--------------
+ID: BBa_M11301
+Original Description: OxyA
+Description: %7B%7D%7B%7B%7D%7B%7D%7B%7D%7B%7D%7B%7D%7B%7D%7B%7D%7B%7D%
+--------------
+ID: BBa_M11302
+Original Description: OxyB
+Description: %7BPoPS%7D%7Brbs%7D%7Brbs%7D%7B%7C%7D%7D%7D%7B%7D%7D%7B%7D%7
+--------------
+ID: BBa_M11304
+Original Description: OxyK
+Description: OxyK (Streptomyces ribosus) oxytetracycline gene cluster, complete
+--------------
+ID: BBa_M11305
+Original Description: OxyF
+Description: OxyF Streptomyces rimosus oxytetracycline gene cluster, complete
+--------------
+ID: BBa_M11306
+Original Description: oxyL
+Description: OxL OxyL Streptomyces rimosus Sequence and Features Assembly Compatibility Coding
+--------------
+ID: BBa_M11307
+Original Description: OxyR
+Description: OxyR Streptomyces coelicolor A3(2) AhpD (ahpD %3A pCon 0.36-%3EluxR+pLux/Tet-%3ElacZalpha-ccd
+--------------
+ID: BBa_M11308
+Original Description: OxyQ
+Description: OxyQ OxyQ Streptomyces rimosus Sequence and Features Assembly Compatibility
+--------------
+ID: BBa_M11309
+Original Description: OxyT
+Description: OxyT OxyT Streptomyces rimosus Sequence and Features Assembly Compatibility
+--------------
+ID: BBa_M11310
+Original Description: OleY
+Description: OleY oleY Streptomyces antibioticus Sequence and Features Assembly Compatibility%3A:10 %3A tetR %3A tetA 
+--------------
+ID: BBa_M11311
+Original Description: OleV
+Description: OleV Streptomyces antibioticus 2,3-dehydratase (oleV) %3CBR%3Ci%3E (oleV)
+--------------
+ID: BBa_M11312
+Original Description: OleW
+Description: %7B%3Csub%7D%7B%3Csub%7D%7Brc%3Csub%7D%3Csub%7D%7B%3Csub%7D%3Csub%7D%7
+--------------
+ID: BBa_M11313
+Original Description: urdR
+Description: urdR NDP-hexose 4-ketoreductase UrdR [%3A pCon 0.70-%3EluxI-LVA+pCon 0.70-%3EluxR+pLux/Te
+--------------
+ID: BBa_M11314
+Original Description: oleL
+Description: %7BoleL dTDP-4-keto-6-deoxyglucose 3,5-epsilonase
+--------------
+ID: BBa_M11315
+Original Description: oleS
+Description: oleS %3A dTDP-D-glucose synthase%3A streptomylin%3A streptomycin%3A
+--------------
+ID: BBa_M11316
+Original Description: oleE
+Description: %7BPath%7D%7B%7D%7D%7B%7D%7B%7D%7B%7D%7D%7B%7D%7B%7D%7B%7D%7
+--------------
+ID: BBa_M11317
+Original Description: oxyN
+Description: oxyN-streptomyces rimosus oxytetracycline gene cluster, complete
+--------------
+ID: BBa_M11318
+Original Description: OxyD
+Description: OxyD OxyD (Streptomyces rimosus) + OxyD (Streptomyces rimosus)
+--------------
+ID: BBa_M1145
+Original Description: part
+Description: modified Lutz-Bujard LacO promoter,with alternative sigma factor %26%23963%3B32 
+--------------
+ID: BBa_M1147
+Original Description: PhaP
+Description: %7B%7D %7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D
+--------------
+ID: BBa_M11560
+Original Description: CUP2
+Description: Cell density controller%3A GFP+mCherry%3A+pCon 0.70-%3EluxI+pLux/Tet-%3EccdB(weak RBS)
+--------------
+ID: BBa_M11561
+Original Description: CAD1
+Description: %7BPac%7D%7D Cadmium induced transcriptional activator%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7
+--------------
+ID: BBa_M11563
+Original Description: cole
+Description: cole cole cole cole cole cole cole cole cole cole cole cole cole cole cole
+--------------
+ID: BBa_M11564
+Original Description: test
+Description: Test and Test Sequence and Features Assembly Compatibility: 10INCOMPATIBLE WITH RFC[10]
+--------------
+ID: BBa_M11565
+Original Description: test
+Description: Test and Test Sequence and Features Assembly Compatibility%3A RFC%3A(10)
+--------------
+ID: BBa_M11566
+Original Description: test
+Description: %7BT%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%
+--------------
+ID: BBa_M11567
+Original Description: phaC
+Description: Temporary phaC %7B gkjfglkdjsglkfdjglkfdjglkd%7D%7B %7D%7B %7D%7B%7
+--------------
+ID: BBa_M1160
+Original Description: Test
+Description: %5BP%5D%5D%5D%5D%5D%5D%5D%5D%5D%5D%5D%5D%5D%5D
+--------------
+ID: BBa_M1161
+Original Description: Test
+Description: Test Check 1 2 Sequence and Features Assembly Compatibility: 10 COMPATIBLE WITH RFC[10]
+--------------
+ID: BBa_M1166
+Original Description: PhaP
+Description: %7Br>%7Br>%7D%7Bbr>%7D%7Bbr%7D%7Bbr%7D%7D%7B%7D%7B%7D%7B%7
+--------------
+ID: BBa_M1167
+Original Description: ssn
+Description: %7BP%7D%7B%7D%7B%7D%7B%7B%7D%7B%7D%7B%7D%7B%7D%7B%7D%7B%7D%
+--------------
+ID: BBa_M1173
+Original Description: asdf
+Description: %7A%7D%7A%7D%7A%7D%7D%7A asdf%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%
+--------------
+ID: BBa_M1176
+Original Description: part
+Description: Cell density controller%3A LVA%3Ci%3E RBS%3Ci%3E LVA%3Ci%3E RBS%3C/i%3E LVA%3C/i%3E RBS
+--------------
+ID: BBa_M1177
+Original Description: HK
+Description: %7BP%7DT%7D%7B%7D%7D%7B%7D%7D%7B%7D%7D%7B%7D%7B%7D%7D%7B%7D%
+--------------
+ID: BBa_M1182
+Original Description: PhaP
+Description: %7D%7D%7D %7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D
+--------------
+ID: BBa_M1185
+Original Description: phB
+Description: phB a;sldfsd;j sequence and Features assembly phB a;sldfsd;j
+--------------
+ID: BBa_M1188
+Original Description: PhaP
+Description: %7BPaP HK Sequence and Features%7D%7B%7B%7D%7B%7B%7D%7B%7D%7B%7D%7B%7D%7B%7D%7
+--------------
+ID: BBa_M1189
+Original Description: ssn
+Description: %7B%7D%7B%7D%7B%7D%7B%7D%7B%7D%7D%7D%7B%7D%7B%7D%7B%7D%7B%
+--------------
+ID: BBa_M1190
+Original Description: PhaP
+Description: PhaP %3Csub%3EBfhh%3C/sub%3EPhaP%3Csub%3EBfhh%3C/sub%3EP
+--------------
+ID: BBa_M1191
+Original Description: Ryan
+Description: eug sequence and features assembly COMPATIBLE WITH RFC[10]
+--------------
+ID: BBa_M1199
+Original Description: PhaP
+Description: %7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%
+--------------
+ID: BBa_M12067
+Original Description: E1
+Description: E1 is a membrane protein that comes from HCV. The receptors on the liver recognize this protein, which
+--------------
+ID: BBa_M1298
+Original Description: phaP
+Description: Polyhydroxyalkanoic acid granule binding site%3Csub%3Ci%3E%3Ci%3E %3Ci%3E%3Ci%3E%3Ci%3E %3Ci%
+--------------
+ID: BBa_M1299
+Original Description: PhaP
+Description: Blackboard Attachment Sequence and Features %3A RBS%3A RFP%3A RFP%3A RBS%3A RFP%3A RFP%3A
+--------------
+ID: BBa_M1300
+Original Description: Phap
+Description: Phap Phap Sequence and Features Assembly %3A RBS%3A RBS%3A RBS%3A RBS%3A RBS%3A RBS%3A 
+--------------
+ID: BBa_M1311
+Original Description: bcd
+Description: bcd bcd enzyme open reading frame coding sequence.
+--------------
+ID: BBa_M1355
+Original Description: RS1
+Description: RS1 RS1 homology region for recombination into Synechococcus PCC
+--------------
+ID: BBa_M1356
+Original Description: RS2
+Description: RS2 Right side homology region for recombination into Synechococcus PCC 700
+--------------
+ID: BBa_M1398
+Original Description: PhaP
+Description: PhaP Ralstonia eutropha phasin (phaP) mRNA%3A Ralstonia eutropha phasin (phaP) mRNA%3A Ralstonia eutropha 
+--------------
+ID: BBa_M1399
+Original Description: PhaP
+Description: PhaP Phasin gene coding region. See Hanley, S.Z., Pappin
+--------------
+ID: BBa_M1401
+Original Description: PhaP
+Description: PhaP Ralstonia eutropha phasin (phaP) mRNA%3Csubscript RBS%3C/subscript
+--------------
+ID: BBa_M1402
+Original Description: phaP
+Description: Temporary phaP Ralstonia eutropha phasin (phaP) mRNA, with terminator 
+--------------
+ID: BBa_M1409
+Original Description: ribD
+Description: ribD ribD gene for synthesizing riboflavin.
+--------------
+ID: BBa_M1414
+Original Description: ribF
+Description: ribF rib F gene for breaking down the riboflavin sequence and features assembly
+--------------
+ID: BBa_M1440
+Original Description: ribB
+Description: modified Lutz-Bujard LacI promoter,with alternative sigma factor %26%2396
+--------------
+ID: BBa_M1526
+Original Description: sgd1
+Description: sgd1 %3A sgd1 %3A sgd1 %3A sgd1 %3A sgd2 %3A sgd2 %3A sgd2
+--------------
+ID: BBa_M1527
+Original Description: sgd
+Description: sgd sgd Sequence and Features Assembly Compatibility: 10INCOMPATIBLE WITH, Description: %5B%5D%5B%5D%5B%5D%5B%5D%5B%5D
+--------------
+ID: BBa_M1619
+Original Description: loxr
+Description: Reverse complement for lox%3Ci%3E%3B lox%3C/i%3E%3E lox%3C/i%3E%3E%3E lox%3C/i%3E%3E%
+--------------
+ID: BBa_M1699
+Original Description: scrT
+Description: splice site: splice site: splice site: splice site: splice site:
+--------------
+ID: BBa_M1839
+Original Description: gfgf
+Description: GFP%3Csub%3E %3C/sub%3E %3Ci%3E %3Ci%3E gfgf%3C/i%3E %3C/i%3E %3
+--------------
+ID: BBa_M1843
+Original Description: His
+Description: His sequence and features assembly COMPATIBLE WITH RFC%3A %3A %3Ci%3E10%3Ci%3EI%3Ci%3E10%3Ci%3Ci%3EI%3Ci
+--------------
+ID: BBa_M1845
+Original Description: His6
+Description: modified Lutz-Bujard LacO promoter,with alternative sigma factor %26%23963%3B32 
+--------------
+ID: BBa_M1871
+Original Description: GFP
+Description: GFP GFP Sequence and Features Assembly Compatibility%3A 10COMPATIBLE WITH RFC[10]
+--------------
+ID: BBa_M1872
+Original Description: GFP
+Description: GFP Ampicilin Sequence and Features Assembly Compatibility%3A GFP Ampicilin Sequence and Features Assembly Compatibility%3A GFP Ampicilin Sequence and Features Assembly Compatibility%3A GFP
+--------------
+ID: BBa_M1887
+Original Description: fgf
+Description: %7Bfgf %7Bgf%7D%7Bgf%7D%7B%7D%7B%7D%7D%7B%7D%7B%7D%7B%7D%7
+--------------
+ID: BBa_M1888
+Original Description: fdf
+Description: %5Bfdf%5D%5BD%5D%5D%5D%5D%5D%5D%5D%5D%5D%5D%5D%5D%5D%5D%5D%
+--------------
+ID: BBa_M1989
+Original Description: aa
+Description: Aa %3A aa %3A aa %3A aa %3A aa %3A aa %3A aa %3A aa %3A aa
+--------------
+ID: BBa_M1990
+Original Description: Aaaa
+Description: Aaaa Aaaa Aaaa Aaaa Aaaa Aaaa Aaaa Aaaa Aaaa
+--------------
+ID: BBa_M1991
+Original Description: aa
+Description: %7BP%7D%7B%7D%7B%7D%7D%7B%7D%7B%7D%7B%7D%7D%7B%7D%7B%7D%7B%
+--------------
+ID: BBa_M1998
+Original Description: blah
+Description: Temporary %3Ci%3E Blah blah %3Ci%3E blah blah %3Ci%3E %3Ci%3E blah blah %3Ci%3
+--------------
+ID: BBa_M300067
+Original Description: misc
+Description: %7BPoPS%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7
+--------------
+ID: BBa_M300068
+Original Description: misc
+Description: Cell density controller%3A RBS%3A pCon 0.70-%3EluxI-LVA+pCon 0.70-%3EluxR+pLux/Tet-%3ElacZalpha-ccdB(we
+--------------
+ID: BBa_M36005
+Original Description: ASDF
+Description: X-COMPACT X-COMPACT X-COMPACT X-COMPACT X-COMPACT
+--------------
+ID: BBa_M36113
+Original Description: asdf
+Description: %7B%7D %7B%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D
+--------------
+ID: BBa_M36123
+Original Description: sdfa
+Description: sdfa adfa adfa fadf %3Ci%3Ci%3Eadf%3Ci%3Efadf%3Ci%3Edf%3Ci
+--------------
+ID: BBa_M36711
+Original Description: rubA
+Description: cis-exonucleotide polymorphism (seq. %3Ci%3E %3C/i%3E)
+--------------
+ID: BBa_M39008
+Original Description: NanR
+Description: NanR Regulator This codes for the NanR Regulator. This is the therepressor for the Nan Oper
+--------------
+ID: BBa_M39009
+Original Description: NanT
+Description: nanT is a protein that is a substrate of the sulfonic acid synthase
+--------------
+ID: BBa_M39013
+Original Description: LasR
+Description: LasR Coding region for the LasL protein which is used in P. aeruginosa quo
+--------------
+ID: BBa_M39015
+Original Description: HrpR
+Description: HrpR (coded as HrpR) is a protein that codes for HrpS and HrpR.
+--------------
+ID: BBa_M39017
+Original Description: TetR
+Description: TetR is a protein that in humans is encoded by the "TetR" gene.
+--------------
+ID: BBa_M39903
+Original Description: foo
+Description: Ffoo foo ffoo ffoo ffoo foo ffoo ffoo foo
+--------------
+ID: BBa_Q00121
+Original Description: LacI
+Description: %7B%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D%7D
+--------------
+ID: BBa_Q00400
+Original Description: Tet
+Description: Tet Tet QPI with B0030 which according to preliminary experiments is a'strong' strength RBS
+--------------
+ID: BBa_Q02121
+Original Description: LacI
+Description: Inverter %5C3%5D%5B%5B%5D%5B%5D%5D%5D%5D%5D%5D%5D%5D%5D%5D%5D%5D%
+--------------
+ID: BBa_Q02400
+Original Description: Tet
+Description: Tet Tet QPI with B0032 which according to preliminary experiments is a "medium" strength RBS with %3Ci%3EGFP
+--------------
+ID: BBa_T3000
+Original Description: OK
+Description: %7B%7D%7B%7D%7B%7D%7D%7B%7D%7B%7D%7B%7D%7B%7D%7B%7D%7B%7D%
+--------------
+ID: BBa_T4000
+Original Description: luxC
+Description: luxC Vibrio fischeri luxC protein coding region. This part is useful for producing light
+--------------
+ID: BBa_V1001
+Original Description: DH5a
+Description: Cell density controller protein%3A pCon 0.36-%3EluxI-LVA+pLux/Tet-%3ElacZalpha-ccdB+pLux/Tet-%3ElacZalpha-
+--------------
+ID: BBa_Y1005
+Original Description: 2u
+Description: 2u Yeast origin%3A Usage and Biology Replicates many times in a cell Sequence and Features Assembly
+--------------
+ID: BBa_Z52934
+Original Description: vdh
+Description: vdh one of five genes needed for conversion of chemical substrate to its commercially usable form
+--------------
