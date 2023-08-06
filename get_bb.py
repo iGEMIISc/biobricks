@@ -32,14 +32,15 @@ for p in parts_raw:
 # plt.show()
 
 
-# Parts with descriptions of length 0 to 1 (16 such parts)
+# Parts with descriptions of length 0 to 4 (708 such parts)
 # These are poor descriptions, and should be modified!
 
-for_improvement = [x for x in parts if len(x["description"]) < 2]
+for_improvement = [x for x in parts if len(x["description"]) < 5]
 
-# Parts with descriptions of length over 110 (27 such parts)
+# Parts with descriptions of length over 80 (758 such parts)
 # These are good descriptions, and should be used for training!
 
-for_training = [x for x in parts if len(x["description"]) > 110]
+for_training = [x for x in parts if len(x["description"]) > 80]
 
+print(len(for_improvement), len(for_training))
 
