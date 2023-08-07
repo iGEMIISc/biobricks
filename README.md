@@ -56,3 +56,6 @@ Developing this pipeline requires expertise in several areas that we are still l
 
 ### Integration
 We would like to integrate this pipeline with the iGEM Registry, so that once our model generates _good-enough_ results, we can modify the entries in the registry with the new descriptions.
+
+### Evaluation
+We would like other iGEM teams to help us in evaluating the results from this pipeline during the several stages of development so that we can track the quality of our model.
