@@ -5,7 +5,7 @@ with open("parts.txt") as f:
     text = f.read()
 
 parts_raw = [x.strip() for x in text.split(">")][1:]
-parts = [('Type', 'Description', 'Rating1', 'Rating2', 'Rating3')]
+parts = []
 
 for part in parts_raw:
     line = part.split("\n")[0].split(maxsplit=4)
@@ -17,4 +17,4 @@ random.shuffle(parts)
 
 with open("parts.csv", "w") as f:
     writer = csv.writer(f)
-    writer.writerows(parts)
+    writer.writerows([('Type', 'Description', 'Rating1', 'Rating2', 'Rating3')] + parts)
